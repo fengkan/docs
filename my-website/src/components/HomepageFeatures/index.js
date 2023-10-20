@@ -19,6 +19,21 @@ const FeatureList = [
     ),
   },
   {
+    title: 'Dollars DEEP',
+    link: '/category/dollars-deep',
+    Svg: '/img/kinect.png',
+    description1: (
+      <>
+        在 MONO 基础上，通过使用 Azure Kinect，
+      </>
+    ),
+    description2: (
+      <>
+        实现更稳定的位置追踪。
+      </>
+    ),
+  },
+  {
     title: 'Dollars VIVA',
     link: '/category/dollars-viva',
     Svg: '/img/motion-capture-viva.png',
