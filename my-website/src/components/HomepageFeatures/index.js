@@ -44,7 +44,7 @@ const FeatureList = [
     ),
     description2: (
       <>
-        使用道乐师的数据流送以及 BVH 文件
+        使用道乐师的数据流送以及 BVH 文件。
       </>
     ),
   },
