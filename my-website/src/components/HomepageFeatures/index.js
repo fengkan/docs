@@ -39,12 +39,12 @@ const FeatureList = [
     Svg: '/img/motion-capture-viva.png',
     description1: (
       <>
-        借助于 HTC Vive 硬件，使用六点追踪，
+        使用 HTC Vive 以及兼容硬件，提供六点全身追踪，
       </>
     ),
     description2: (
       <>
-        在减轻动捕演员负担的同时，提供低成本高质量的全身动作捕捉。
+        提供低成本高质量的全身动作捕捉。
       </>
     ),
   },

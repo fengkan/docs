@@ -1,5 +1,5 @@
 ---
-sidebar_position: 40
+sidebar_position: 25
 title: 常见校准问题
 ---
 
