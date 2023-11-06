@@ -5,6 +5,12 @@ title: 历史版本
 
 # Dollars MONO 历史版本
 
+## 2023年10月10日
+- 道乐师无穿戴版改名为 Dollars MONO！
+- 若干小修正 
+
+下载 [v.231010](https://kilimanjaro.sunnyview.tech/Dollars_MONO_231010.zip)
+
 ## 2023年09月28日
 - 改良手部抖动
 - 修正 iClone 流送问题
