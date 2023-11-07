@@ -99,3 +99,7 @@ https://github.com/unity3d-jp/UnityChanKAGURA
 ![](../img/image16.png#center)
 
 完成这些之后，分别启动道乐师和 Rokoko Studio，可以看到 UnityChan 的身体由道乐师控制，手部由 Rokoko 控制了。
+
+运行效果如下，
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV12u4y177XB&autoplay=0" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
