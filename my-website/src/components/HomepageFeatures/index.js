@@ -34,6 +34,21 @@ const FeatureList = [
     ),
   },
   {
+    title: 'Dollars EGAO',
+    link: '/category/dollars-egao',
+    Svg: '/img/face-scan.png',
+    description1: (
+      <>
+        完全免费的摄像头面部捕捉，
+      </>
+    ),
+    description2: (
+      <>
+      支持 VMC 协议，Unity 以及虚幻引擎。
+      </>
+    ),
+  },
+  {
     title: 'Dollars VIVA',
     link: '/category/dollars-viva',
     Svg: '/img/motion-capture-viva.png',

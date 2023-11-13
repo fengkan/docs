@@ -1,6 +1,7 @@
 ---
 sidebar_position: 60
 title: 📢 常见问题 
+slug: /viva-faq
 ---	
 
 # 常见问题
@@ -16,6 +17,8 @@ Dollars VIVA 原生支持使用 Valve Index 手柄进行手指追踪。
 您也可以配合手套使用 Dollars VIVA，并且在引擎、以及 DCC 软件中进行手指和身体的整合。
 
 您可以在[这里](/otherdevices)看到一个例子。
+
+
 ## 人物朝向不正确
 
 人物朝向由两个因素决定，

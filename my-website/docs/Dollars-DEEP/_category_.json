@@ -1,8 +1,8 @@
 {
   "label": "Dollars DEEP",
-  "position": 2,
+  "position": 20,
   "link": {
     "type": "generated-index",
-    "description": "Dollars MONO 的文档也适合于 Dollars DEEP，以下是一些 Dollars DEEP 特有的或者与 MONO 不同的地方。"
+    "description": "Dollars MONO 的文档也适合于 Dollars DEEP，建议您首先阅读。另外，以下是一些 Dollars DEEP 特有的或者与 MONO 不同的地方。"
   }
 }
