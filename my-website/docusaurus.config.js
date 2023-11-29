@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '道乐师 - 上海晴观信息科技有限公司',
-  tagline: '为虚拟形象注入生命',
+  tagline: '为虚拟角色注入生命',
   favicon: 'img/dollars_icon.png',
 
   // Set the production url of your site here
