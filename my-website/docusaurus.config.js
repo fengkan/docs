@@ -66,6 +66,11 @@ const config = {
             href: 'https://www.sunnyview.tech',
             position: 'right',
           },
+          {
+            label: '社区',
+            href: 'http://forum.sunnyview.tech',
+            position: 'right',
+          },
         ],
       },
       footer: {
