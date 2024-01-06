@@ -2,6 +2,7 @@
   "label": "与引擎以及 DCC 软件的整合",
   "position": 50,
   "link": {
-    "type": "generated-index"
-  }
+    "type": "generated-index",
+    "description": "无论您使用的是哪款道乐师产品，您都可以使用本模块中的方法完成与各软件的整合。"
+}
 }
