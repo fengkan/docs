@@ -5,6 +5,12 @@ title: 历史版本
 
 # Dollars DEEP 历史版本
 
+## 2023年12月11日
+- 新增面捕灵敏度参数
+- 修正同步失效
+
+下载 [v.231211](https://kilimanjaro.sunnyview.tech/Dollars_DEEP_231211.zip)
+
 ## 2023年11月29日
 - 修正 Azure Kinect Sensor SDK 引起的内存泄漏
 - 提高追踪质量
