@@ -5,6 +5,14 @@ title: 历史版本
 
 # Dollars MONO 历史版本
 
+## 2023年11月30日
+- 提高追踪质量
+- 有新版本时通知
+- iClone 端口占用时的错误提示
+- 若干小修正
+
+下载 [v.231130](https://kilimanjaro.sunnyview.tech/Dollars_MONO_231130.zip)
+
 ## 2023年11月06日
 - 若干小修正 
 
