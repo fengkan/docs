@@ -15,7 +15,7 @@ VRM Add-on for Blender 2.20.27，https://vrm-addon-for-blender.info/en/
 VMC4B 1.1.0，https://booth.pm/en/items/3432915
 :::
 
-在 Blender 中，对 VRM 进行实时面部捕捉，除了按照上面这些插件之外，还需要修改插件文件以及确认 VRM Proxy 两个步骤。
+在 Blender 中，对 VRM 进行实时面部捕捉，除了安装上面这些插件之外，还需要修改插件文件以及确认 VRM Proxy 两个步骤。
 
 ## 修改插件
 
