@@ -5,6 +5,11 @@ title: 历史版本
 
 # Dollars DEEP 历史版本
 
+## 2024年01月19日
+- 修正腰部位移失效
+
+下载 [v.240119](https://kilimanjaro.sunnyview.tech/Dollars_DEEP_240119.zip)
+
 ## 2023年12月11日
 - 新增面捕灵敏度参数
 - 修正同步失效

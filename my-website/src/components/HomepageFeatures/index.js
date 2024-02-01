@@ -24,7 +24,7 @@ const FeatureList = [
     Svg: '/img/kinect.png',
     description1: (
       <>
-        在 MONO 基础上，通过使用 Azure Kinect，
+        在 MONO 基础上，通过使用深度摄像头，
       </>
     ),
     description2: (

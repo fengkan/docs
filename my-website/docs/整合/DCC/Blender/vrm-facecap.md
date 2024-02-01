@@ -19,6 +19,10 @@ VMC4B 1.1.0，https://booth.pm/en/items/3432915
 
 ## 修改插件
 
+:::info
+如果您使用 VMC4B 最新的 1.1.2 版，修改插件这一步可以省略。
+:::
+
 - 找到 VMC4B 所在目录。
 
 通常在 C:\Users\<用户名>\AppData\Roaming\Blender Foundation\Blender\3.0\scripts\addons\VMC4B
