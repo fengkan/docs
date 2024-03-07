@@ -1,6 +1,7 @@
 ---
-sidebar_position: 90
-title: 常见问题
+sidebar_position: 50
+title: MOTS
+slug: /mots-faq
 ---	
 
 # Dollars MOTS 常见问题

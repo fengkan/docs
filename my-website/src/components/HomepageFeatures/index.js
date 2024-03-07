@@ -92,6 +92,20 @@ const FeatureList = [
       </>
     ),
   },
+  {
+    title: '常见问题',
+    link: '/category/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98',
+    Svg: '/img/faq.png',
+    description1: (
+      <>
+        使用道乐师产品以及整合过程中的常见问题
+      </>
+    ),
+    description2: (
+      <>
+      </>
+    ),
+  },
 ];
 
 function Feature({Svg, title, description1, description2, link}) {

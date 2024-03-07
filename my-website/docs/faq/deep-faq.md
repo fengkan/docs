@@ -1,6 +1,6 @@
 ---
-sidebar_position: 90
-title: 常见问题
+sidebar_position: 20
+title: DEEP
 slug: /deep-faq
 ---	
 

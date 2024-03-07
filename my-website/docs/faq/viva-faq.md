@@ -1,10 +1,10 @@
 ---
-sidebar_position: 60
-title: 📢 常见问题 
+sidebar_position: 40
+title: VIVA
 slug: /viva-faq
 ---	
 
-# 常见问题
+# Dollars VIVA 常见问题
 
 import TOCInline from '@theme/TOCInline';
 
