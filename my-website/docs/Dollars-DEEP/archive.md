@@ -5,6 +5,22 @@ title: 历史版本
 
 # Dollars DEEP 历史版本
 
+## 2024年03月06日
+- 站姿改进
+- 新增同步到 VRChat
+
+下载 [v.240306](https://kilimanjaro.sunnyview.tech/Dollars_DEEP_240306.zip)
+
+## 2024年02月27日
+- 修正面捕错误
+- 修正腰部追踪错误
+- 若干小修正
+
+下载 [v.240227](https://kilimanjaro.sunnyview.tech/Dollars_DEEP_240227.zip)
+
+## 2024年02月02日
+- 支持 Femto Bolt
+
 ## 2024年01月19日
 - 修正腰部位移失效
 
