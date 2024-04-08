@@ -1,6 +1,6 @@
 ---
 sidebar_position: 60
-title: Unreal Engine
+title: 常见问题
 slug: /ue-faq
 ---	
 
@@ -14,7 +14,7 @@ import TOCInline from '@theme/TOCInline';
 
 您可以像下图中演示的，使用 Apply Additive 动画节点，将表情动画和动作动画结合起来。
 
-![](../img/20231113153601.jpg)
+![](../../img/20231113153601.jpg)
 
 您可以在几乎所有道乐师的虚幻示例中，找到表情和动作的结合的部分，建议您下载参考。下载链接请见各视频简介。
 
@@ -40,7 +40,7 @@ import TOCInline from '@theme/TOCInline';
 
 - 如果是 MetaHuman 的项目，去除动画蓝图中的 Post Process 动画蓝图
 
-![](../img/2023_11_03_23_28_05-DollarsMetaHuman_FC.png)
+![](../../img/2023_11_03_23_28_05-DollarsMetaHuman_FC.png)
 
 再次感谢提供建议的各位网友！
 
@@ -60,7 +60,7 @@ import TOCInline from '@theme/TOCInline';
 
 可以修改道乐师的动画蓝图，将 Begin Play 事件改为 Initialize Animation，如下图所示：
 
-![](../img/566c2b857ae79a7f2b2c60a417bb0bb21911024894.png)
+![](../../img/566c2b857ae79a7f2b2c60a417bb0bb21911024894.png)
 
 请注意，在运行时切换动画蓝图，可能导致角色没有动画，推荐通过在同一动画蓝图中进行状态切换来实现动捕与动作序列的转换，可以参考[这里](/ue-adv)。
 

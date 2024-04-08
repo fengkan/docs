@@ -78,6 +78,21 @@ const FeatureList = [
     ),
   },
   {
+    title: 'Dollars LINK',
+    link: '/category/dollars-link',
+    Svg: '/img/link.png',
+    description1: (
+      <>
+       使用 Live Link Face
+      </>
+    ),
+    description2: (
+      <>
+      在 iClone8 中进行面部捕捉
+      </>
+    ),
+  },
+  {
     title: '与引擎以及 DCC 软件的整合',
     link: '/category/%E4%B8%8E%E5%BC%95%E6%93%8E%E4%BB%A5%E5%8F%8A-dcc-%E8%BD%AF%E4%BB%B6%E7%9A%84%E6%95%B4%E5%90%88',
     Svg: '/img/digital-platform.png',
@@ -94,7 +109,7 @@ const FeatureList = [
   },
   {
     title: '常见问题',
-    link: '/category/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98',
+    link: '/faq',
     Svg: '/img/faq.png',
     description1: (
       <>

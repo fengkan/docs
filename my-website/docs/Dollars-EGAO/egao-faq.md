@@ -1,6 +1,6 @@
 ---
-sidebar_position: 30
-title: EGAO
+sidebar_position: 50
+title: 常见问题
 slug: /egao-faq
 ---	
 
