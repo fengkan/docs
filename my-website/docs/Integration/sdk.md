@@ -1,5 +1,5 @@
 ---
-sidebar_position: 40
+sidebar_position: 80
 title: 无穿戴 SDK 开发环境搭建
 slug: /sdk
 ---

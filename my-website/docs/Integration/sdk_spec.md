@@ -1,5 +1,5 @@
 ---
-sidebar_position: 40
+sidebar_position: 90
 title: 无穿戴 SDK 使用说明
 slug: /sdk-spec
 ---

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 40
+sidebar_position: 70
 title: 配合使用其他追踪设备
 slug: /otherdevices
 ---
