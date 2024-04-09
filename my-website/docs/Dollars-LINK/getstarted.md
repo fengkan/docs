@@ -15,7 +15,7 @@ title: 准备使用
 
 ### 选择模式
 
-打开 Live Link Face，点击右上角的设置按钮，在模式选项中，选择 Live Link (ARKit)。
+打开 Live Link Face，点击左上角的设置按钮，在模式选项中，选择 Live Link (ARKit)。
 
 ![](../img/Screenshot2024-04-08221622.png)
 
