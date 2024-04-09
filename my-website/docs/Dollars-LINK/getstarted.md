@@ -40,7 +40,7 @@ Live Link Face 其他选项保持默认即可。
 
 ![](../img/link1.png)
 
-打开 Dollars LINK，您可以在通过人偶看到面部捕捉的结果。
+打开 Dollars LINK，您可以通过人偶看到面部捕捉的结果。
 
 ![](../img/link2.png)
 
