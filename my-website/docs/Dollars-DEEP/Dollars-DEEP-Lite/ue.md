@@ -5,7 +5,7 @@ title: 虚幻中的使用
 
 # 虚幻中的使用
 
-您需要在这里下载与 DEEP Lite 匹配的虚幻插件以及 UE4 Mannequin 蓝图。
+您需要在这里下载与 DEEP Lite 匹配的[虚幻插件](https://kilimanjaro.sunnyview.tech/DEEP_Lite/Dollars.zip)以及 [UE4 Mannequin 蓝图](https://kilimanjaro.sunnyview.tech/DEEP_Lite/Dollars_UE4Mannequin.zip)。
 
 插件的使用，与其他道乐师产品的基本相同，您可以在[这里](/ue-getstarted)查看。
 

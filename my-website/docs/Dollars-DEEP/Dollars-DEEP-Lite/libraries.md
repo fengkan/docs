@@ -7,7 +7,7 @@ title: 安装并切换运行库
 
 ## 下载
 
-您需要在这里下载运行所需的动态链接库，解压缩，并把它们放入 DEEP Lite 所在目录。
+您需要在[这里](https://pan.baidu.com/s/1_gYS10tWosJQET3vQeVwtQ?pwd=dav6)下载运行所需的动态链接库，解压缩，并把它们放入 DEEP Lite 所在目录。
 
 完成后，DEEP Lite 目录下的文件应该与下图中类似。
 
