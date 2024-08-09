@@ -20,7 +20,7 @@ https://pan.baidu.com/s/1qAPmjsstRuGHP6wcb4PKfw?pwd=i5pb
 
 Unity 版本：2019.4.26
 
-https://pan.baidu.com/s/19W4n2aYPEEUWJnEiHY3Yaw?pwd=s0zfs
+https://pan.baidu.com/s/19W4n2aYPEEUWJnEiHY3Yaw?pwd=s0zf
 
 ## 香蕉人模型动捕
 
