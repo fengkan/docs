@@ -33,6 +33,22 @@ const FeatureList = [
       </>
     ),
   },
+    {
+    title: 'Dollars VIVA',
+    link: '/category/dollars-viva',
+    Svg: '/img/motion-capture-viva.png',
+    description1: (
+      <>
+        使用 HTC Vive 以及兼容硬件，提供六点全身追踪，
+      </>
+    ),
+    description2: (
+      <>
+        提供低成本高质量的全身动作捕捉。
+      </>
+    ),
+  },
+
   {
     title: 'Dollars EGAO',
     link: '/category/dollars-egao',
@@ -49,31 +65,17 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Dollars VIVA',
-    link: '/category/dollars-viva',
-    Svg: '/img/motion-capture-viva.png',
+    title: 'Dollars NVIS',
+    link: '/category/dollars-nvis',
+    Svg: '/img/nvis.png',
     description1: (
       <>
-        使用 HTC Vive 以及兼容硬件，提供六点全身追踪，
+       由 NVIDIA 强力驱动，
       </>
     ),
     description2: (
       <>
-        提供低成本高质量的全身动作捕捉。
-      </>
-    ),
-  },
-  {
-    title: 'Dollars MOTS',
-    link: '/category/dollars-mots',
-    Svg: '/img/T2M.png',
-    description1: (
-      <>
-       根据文本生成全身动作！
-      </>
-    ),
-    description2: (
-      <>
+      接近 iPhone 的摄像头面捕
       </>
     ),
   },
@@ -89,6 +91,21 @@ const FeatureList = [
     description2: (
       <>
       在 iClone8 中进行面部捕捉
+      </>
+    ),
+  },
+
+  {
+    title: 'Dollars MOTS',
+    link: '/category/dollars-mots',
+    Svg: '/img/T2M.png',
+    description1: (
+      <>
+       根据文本生成全身动作！
+      </>
+    ),
+    description2: (
+      <>
       </>
     ),
   },

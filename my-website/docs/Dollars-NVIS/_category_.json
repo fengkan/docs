@@ -1,6 +1,6 @@
 {
-  "label": "Dollars EGAO",
-  "position": 40,
+  "label": "Dollars NVIS",
+  "position": 45,
   "link": {
     "type": "generated-index",
     "description": "Dollars MONO 的文档也适合于 Dollars EGAO，建议您首先阅读。另外，以下是一些 Dollars EGAO 特有的或者与 MONO 不同的地方。"
