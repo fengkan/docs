@@ -14,6 +14,7 @@ import TOCInline from '@theme/TOCInline';
 
 请确认以下几点，
 
+- 您已经选择了与您的相机匹配的运行库。具体参见请[切换运行库](/Dollars-DEEP/cameras)。
 - DEEP 处于全身动捕模式
 - 动捕人偶为蓝色
 - 动捕演员下半身完整入镜
