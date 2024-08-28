@@ -17,7 +17,7 @@ https://github.com/orbbec/OrbbecSDK/releases
 
 点击左下方四角，在弹出的更多对话框中确认连接方式为 3.1。
 
-![](../img/2.png)
+![](../img/566c2b857ae79a7f2b2c60a417bb0bb2191.png)
 
 点选上方按钮，确认各相机可以正确输出。
 
