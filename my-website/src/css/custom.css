@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
@@ -47,5 +47,5 @@ footer
     font-size: 0.8em;
 }
 
-.pagination-nav__link--prev .pagination-nav__label:before{content:"< "}
-.pagination-nav__link--next .pagination-nav__label:after{content:" >"}
+.pagination-nav__link--prev .pagination-nav__label:before{content:"« "}
+.pagination-nav__link--next .pagination-nav__label:after{content:" »"}
