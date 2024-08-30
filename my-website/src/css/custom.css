@@ -46,3 +46,6 @@ footer
 {
     font-size: 0.8em;
 }
+
+.pagination-nav__link--prev .pagination-nav__label:before{content:"< "}
+.pagination-nav__link--next .pagination-nav__label:after{content:" >"}
