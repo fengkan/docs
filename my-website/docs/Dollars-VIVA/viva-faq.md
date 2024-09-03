@@ -18,7 +18,6 @@ Dollars VIVA 原生支持使用 Valve Index 手柄进行手指追踪。
 
 您可以在[这里](/otherdevices)看到一个例子。
 
-
 ## 人物朝向不正确
 
 人物朝向由两个因素决定，
@@ -39,4 +38,9 @@ Dollars VIVA 原生支持使用 Valve Index 手柄进行手指追踪。
 ## 是否支持多人动捕
 
 Dollars VIVA 只支持单人动捕，但是您可以通过在同一区域内共享基站，并且放置多台电脑来实现多人动捕。
+
+## Valve Index 手指追踪失效
+
+请先打开所有追踪器和控制器，确保它们的图标在 SteamVR 的面板上稳定显示，之后在打开 Dollars VIVA。
+
 

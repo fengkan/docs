@@ -28,3 +28,7 @@ title: 使用 OBS 虚拟摄像头作为输入
 或者在手机投屏到电脑后，将 Live Link Face 的画面作为动捕输入，实现用一台手机同时进行动捕和面捕。
 
 ![](../img/FpeGmsLdyjnwXsCSLpOb1w2tX_Ym.png#center)
+
+您可以在以下视频中，进一步了解如何使用 OBS Virtual Camera 提升动捕质量。
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Wm421g7Xs&autoplay=0" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

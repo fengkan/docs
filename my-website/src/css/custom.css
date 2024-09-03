@@ -32,20 +32,19 @@
   --ifm-font-color-base: #ddd;
 }
 
-img[src*='#center'] { 
-    display: block;
-    margin: auto;
-    max-width:600px;
+.navbar__logo img {
+    box-shadow: none;
 }
-img[src*='#centersmall'] { 
+.markdown img,
+.markdown-body img  {
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
     display: block;
-    margin: auto;
-    max-width:50%;
+    max-width:600px;
+    max-height:400px;
+    width: auto;
+    height: auto;
 }
 footer
 {
     font-size: 0.8em;
 }
-
-.pagination-nav__link--prev .pagination-nav__label:before{content:"< "}
-.pagination-nav__link--next .pagination-nav__label:after{content:" >"}
