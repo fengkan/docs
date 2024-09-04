@@ -11,8 +11,8 @@ title:  同步至其他应用程序
 
 端口选项为道乐师的引擎插件所监听的端口，利用这些端口，可以实现在同一项目中进行多人动捕。
 
-![](../img/FrN-ALynnAyZN3rTVM02pCvGXKc_.png#center)
+![](../img/FrN-ALynnAyZN3rTVM02pCvGXKc_.png)
 
 当您开启或关闭同步功能后，您可以在程序左上角看到相应提示。
 
-![](../img/Fssio5cvW52BexBffDBFmwMG5xPw.png#center)
+![](../img/Fssio5cvW52BexBffDBFmwMG5xPw.png)

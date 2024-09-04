@@ -7,7 +7,7 @@ slug: /blender-vrm-facecap
 
 # 对 VRM 文件进行实时面部捕捉
 
-:::info本文中使用版本
+:::info 本文中使用版本
 Blender 3.0.0
 
 VRM Add-on for Blender 2.20.27，https://vrm-addon-for-blender.info/en/
@@ -25,7 +25,7 @@ VMC4B 1.1.0，https://booth.pm/en/items/3432915
 
 - 找到 VMC4B 所在目录。
 
-通常在 C:\Users\<用户名>\AppData\Roaming\Blender Foundation\Blender\3.0\scripts\addons\VMC4B
+通常在 `C:\Users\用户名\AppData\Roaming\Blender Foundation\Blender\3.0\scripts\addons\VMC4B`
 
 - 在[这里](https://kilimanjaro.sunnyview.tech/config.py)下载 config.py，覆盖 VMC4B 目录中，core 目录下的同名文件。 
 
@@ -35,7 +35,7 @@ VMC4B 1.1.0，https://booth.pm/en/items/3432915
 
 ## 确认 VRM Blend Shape Proxy 名
 
-:::info注意
+:::info 注意
 您需要一个支持 Perfect Sync 的 VRM 模型，才能使用 Blend Shape Proxy 进行面部捕捉。
 :::
 

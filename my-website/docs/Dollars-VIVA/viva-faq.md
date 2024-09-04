@@ -23,11 +23,11 @@ Dollars VIVA 原生支持使用 Valve Index 手柄进行手指追踪。
 人物朝向由两个因素决定，
 1. SteamVR 朝向
 
-![](../img/FnQ0l5F5DiMNNihvuOlQB_-wM7We.png#center)
+![](../img/FnQ0l5F5DiMNNihvuOlQB_-wM7We.png)
 
 2. 人物头戴 Tracker 朝向
 
-![](../img/FgrS3TO83-n0tbFbzLjT7eFpNl0-.jpg#center)
+![](../img/FgrS3TO83-n0tbFbzLjT7eFpNl0-.jpg)
 
 具体请参看相关文档。
 

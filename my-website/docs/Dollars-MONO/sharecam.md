@@ -11,14 +11,14 @@ title:  共享摄像头
 
 您可以将视频，桌面窗口，或者摄像头加入 OBS 后，通过右侧按钮启动虚拟摄像头。
 
-![](../img/FktWqShQT4QzysPfF0e6uDl2wp_A.png#center)
+![](../img/FktWqShQT4QzysPfF0e6uDl2wp_A.png)
 
 在道乐师中，选择 OBS 的虚拟摄像头作为视频源，
 
-![](../img/FrDSay4m6wJrr4FIjIc5ADsuNYy9.png#center)
+![](../img/FrDSay4m6wJrr4FIjIc5ADsuNYy9.png)
 
 同时在 Animaze 也以 OBS 虚拟摄像头作为输入。
 
-![](../img/Ft3Pf9KIgAM5tAs65dU8IYTJNGAd.png#center)
+![](../img/Ft3Pf9KIgAM5tAs65dU8IYTJNGAd.png)
 
 这样您就可以通过一个摄像头，在道乐师中进行动作捕捉，同时在 Animaze 中进行表情捕捉。

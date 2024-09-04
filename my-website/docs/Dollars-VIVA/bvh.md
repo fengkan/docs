@@ -7,13 +7,13 @@ title: 录制 BVH
 
 您可以通过按下左上方的按钮，录制 BVH 文件。
 
-![](../img/2023-11-02_17_34_10-Dollars_VIVA.png#center)
+![](../img/2023-11-02_17_34_10-Dollars_VIVA.png)
 
 再次按下该按钮，可以结束录制。
 
 BVH 文件将以当前时间戳为文件名存放于道乐师程序根目录下。
 
-![](../img/FqatAo8HDqyF9Q4MCynMGf9YWDZt.png#center)
+![](../img/FqatAo8HDqyF9Q4MCynMGf9YWDZt.png)
 
 :::info
 

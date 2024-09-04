@@ -7,7 +7,7 @@ title: 动捕模式
 
 Dollars MONO 提供”上半身“，“跳跃”以及“平地”三种动捕模式，您可以根据实际动捕需求，通过点击按钮在这些模式间进行切换。
 
-![](../img/FqK6yqb6STxaAsL3gM4uMeaVlMc4.png#center)
+![](../img/FqK6yqb6STxaAsL3gM4uMeaVlMc4.png)
 
 
 ## 上半身模式

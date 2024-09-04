@@ -22,13 +22,13 @@ Dollars DEEP 当前只支持相机水平放置，尽量不要有倾角。
 
 如果您使用的是 Azure Kinect，请在相机选项中，选择 Azure Kinect。
 
-![](../img/2023-10-20.png#center)
+![](../img/2023-10-20.png)
 
 ### Femto Bolt
 
 如果您使用的是 Femto Bolt，请在相机选项中，选择 Femto Bolt RGB。
 
-![](../img/2024_02_01_14_16_39-Dollars.png#center)
+![](../img/2024_02_01_14_16_39-Dollars.png)
 
 :::danger注意
 请不要选择 Femto Bolt Depth，可能会导致程序无响应。
@@ -36,11 +36,11 @@ Dollars DEEP 当前只支持相机水平放置，尽量不要有倾角。
 
  选中对应的深度摄像头后，动捕的人偶将从通常的黑色，
 
-![](../img/2023-10-20_19_51_58.png#center)
+![](../img/2023-10-20_19_51_58.png)
 
 变为蓝色。
 
-![](../img/2023-10-20_19_51_47.png#center)
+![](../img/2023-10-20_19_51_47.png)
 
 :::info
 您可以从动捕人偶是否变为蓝色，来判断是否选中了深度摄像头。
@@ -50,5 +50,5 @@ Dollars DEEP 当前只支持相机水平放置，尽量不要有倾角。
 
 Dollars DEEP 暂时不支持 Dollars MONO 中的摄像头水平镜像模式。
 
-![](../img/2023-10-20_20_22_33.png#center)
+![](../img/2023-10-20_20_22_33.png)
 

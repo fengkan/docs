@@ -20,7 +20,7 @@ import TOCInline from '@theme/TOCInline';
 
 ## 蓝图编译错误
 
-建议对照视频检查蓝图是否有误，尤其建议下载视频简介中的示例项目，进行比对。
+通常这是由于插件目录被改动，导致引用出错。建议您根据[这里](/ue-getstarted)的步骤重新复制插件。
 
 ## 动作卡顿
 
@@ -34,7 +34,7 @@ import TOCInline from '@theme/TOCInline';
 
 - 限制虚幻帧率
 
-感谢提供建议的各位网友！
+感谢提供帮助的热心用户！
 
 ## 5.X 打包之后动捕失效
 
@@ -46,7 +46,7 @@ import TOCInline from '@theme/TOCInline';
 
 ![](../../img/2023_11_03_23_28_05-DollarsMetaHuman_FC.png)
 
-再次感谢提供建议的各位网友！
+再次感谢提供帮助的热心用户！
 
 ## 5.1 无法复制 Ctrl Rig
 

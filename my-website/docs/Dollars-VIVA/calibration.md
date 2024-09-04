@@ -11,7 +11,7 @@ title: 开始使用
 
 您可在其中看到用于动捕的人偶，以及各个追踪器。
 
-![](../img/Fq8AoyEEn6CdtgekolGd2LT-SDWA.jpg#center)
+![](../img/Fq8AoyEEn6CdtgekolGd2LT-SDWA.jpg)
 
 ## 预校准状态
 
@@ -21,7 +21,7 @@ title: 开始使用
 
 确认追踪后，即可摆正校准姿势，进行校准。
 
-![](../img/FonhDzMcenGeXqLHbxZ5Bf-o9FF1.jpg#center)
+![](../img/FonhDzMcenGeXqLHbxZ5Bf-o9FF1.jpg)
 
 :::info
 
@@ -37,15 +37,15 @@ title: 开始使用
 
 这是手握手柄的情况。
 
-![](../img/Fg1tEq1vB9Ri2Fvn022fwe080wZm.png#center)
+![](../img/Fg1tEq1vB9Ri2Fvn022fwe080wZm.png)
 
 这是手部佩戴追踪器的情况。注意不管您是用手柄还是追踪器，您的手掌始终是向前的。
 
-![](../img/FiApKo8Qb3P0fgFN9f3pTs3BIfwc.png#center)
+![](../img/FiApKo8Qb3P0fgFN9f3pTs3BIfwc.png)
 
 此时道乐师画面中，各控制器与追踪器看起来类似这样。
 
-![](../img/FsIgyyOnifvvjH7z3MGeUaskGEik.jpg#center)
+![](../img/FsIgyyOnifvvjH7z3MGeUaskGEik.jpg)
 
 ## 校准状态
 
@@ -53,7 +53,7 @@ title: 开始使用
 
 此时请保持校准姿势，倒计时结束即完成校准，出现人偶。
 
-![](../img/FrisQdJ6po8SgBi1XTaZ-FGUZVXC.jpg#center)
+![](../img/FrisQdJ6po8SgBi1XTaZ-FGUZVXC.jpg)
 
 如果您的校准姿势不准确，会影响动捕结果。您可以按下 C 键，或者点击校准按钮，重新校准。
 

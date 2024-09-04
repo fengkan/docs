@@ -11,16 +11,16 @@ title: 常见校准问题
 
 请并拢双腿，再次校准。
 
-![](../img/Fn10Uvti7k9iyPwW3-jwbM-upQZ9.png#center)
+![](../img/Fn10Uvti7k9iyPwW3-jwbM-upQZ9.png)
 
 如果您双手向前伸平时，发现人偶的双手弯曲，是因为校准时双臂没有打开或者伸平。
 
 请伸直肘部，展开双臂再次校准。如有必要，可以双手稍许向身后伸展。
 
-![](../img/FsonlOAO5mslbZ_ZjFJ5wAfWspiY.png#center)
+![](../img/FsonlOAO5mslbZ_ZjFJ5wAfWspiY.png)
 
 如果您在放松状态下，发现人偶的头抬得过高或者过低，那是因为校准时有抬头或者低头的动作。
 
 请确保在双目平视前方的状态下完成校准。
 
-![](../img/Fmy6huuoYbfeSZi2mP-uRIiurOhT.png#center)
+![](../img/Fmy6huuoYbfeSZi2mP-uRIiurOhT.png)
