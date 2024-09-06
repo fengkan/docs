@@ -41,6 +41,7 @@ Dollars VIVA 只支持单人动捕，但是您可以通过在同一区域内共�
 
 ## Valve Index 手指追踪失效
 
-请先打开所有追踪器和控制器，确保它们的图标在 SteamVR 的面板上稳定显示，之后在打开 Dollars VIVA。
+- 请先打开所有追踪器和控制器，确保它们的图标在 SteamVR 的面板上稳定显示，之后在打开 Dollars VIVA。
+- 请确保 SteamVR 的 UI 窗口没有打开。当 SteamVR 的 UI 打开时，控制器输入会被其读取，导致 VIIVA 无法获得所需信息。您可以通过 menu 键关闭 SteamVR 的 UI。
 
 
