@@ -25,7 +25,7 @@ slug: /ue-getstarted
 
 ![](../../img/2024_05_29_16_57_36-dollars42.png)
 
-:::warning注意
+:::warning 注意
 在第一次复制时，改变 Dollars 目录的位置会引发编译错误。
 :::
 

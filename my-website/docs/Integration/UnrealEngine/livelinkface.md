@@ -24,7 +24,7 @@ slug: /ue-livelinkface
 
 ![](../../img/2024_08_13_18_55_36.png)
 
-:::warning注意
+:::warning 注意
 
 如果您在编辑器中无法看到 Dollars MoCap 对象，请确认您只打开了一个虚幻项目。
 

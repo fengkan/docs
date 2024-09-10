@@ -6,7 +6,7 @@ slug: /vrchat
 
 # VRChat 全身动捕
 
-:::info注意
+:::info 注意
 道乐师的以下产品支持 VRChat 全身动捕，
 
 - Dollars DEEP（自 v.240306 起）
