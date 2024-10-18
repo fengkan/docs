@@ -13,4 +13,4 @@ https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/
 
 正确安装后，运行 NVIS，您将可以看到 NVIS 前端（下图中上半部分）以及后端（下图中下半部分）两个窗口。
 
-![](../img/2024_08_13_17_50_05-2024-08-1.png)
+![](../img/2024_10_18_11_49_36.jpg)
