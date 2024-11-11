@@ -15,6 +15,12 @@ https://github.com/orbbec/OrbbecSDK/releases
 
 ![](../img/1.png)
 
+:::info 网盘下载
+如果您无法打开上述连接，可以在以下网盘下载，
+
+链接：https://pan.baidu.com/s/1AJCMXYzM5nseWC1GooRZ0Q?pwd=9h02 
+:::
+
 点击左下方四角，在弹出的更多对话框中确认连接方式为 3.1。
 
 ![](../img/566c2b857ae79a7f2b2c60a417bb0bb2191.png)
@@ -30,6 +36,12 @@ https://github.com/orbbec/OrbbecSDK/releases
 https://github.com/orbbec/Azure-Kinect-Samples/releases/download/body-tracking-bolt-and-mega-bin/body-tracking-bolt-and-mega-bin.zip
 
 （来自 https://github.com/orbbec/Azure-Kinect-Samples ）
+
+:::info 网盘下载
+如果您无法打开上述连接，可以在以下网盘下载，
+
+链接：https://pan.baidu.com/s/1ri--9QfDAL1_mLEjr12FXw?pwd=mf47 
+:::
 
 解压缩后，运行 Azure Kinect Body Tracking SDK\tools\k4abt_simple_3d_viewer，确认有人体骨骼输出。
 
