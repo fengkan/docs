@@ -5,10 +5,22 @@ title: 历史版本
 
 # Dollars MONO 历史版本
 
+##  2024年11月15日
+- BVH 新增兼容 Cascadeur 格式
+
+下载 [v.241115](https://kilimanjaro.sunnyview.tech/Dollars_MONO_241115.zip)
+
+## 2024年07月11日
+- 虚幻面捕兼容 Live Link Face 方式
+- 若干小修正
+
+下载 [v.240711](https://kilimanjaro.sunnyview.tech/Dollars_MONO_240711.zip)
+
+
 ## 2024年04月30日
 - 新增增强模式！
 
-- 下载 [v.240430](https://kilimanjaro.sunnyview.tech/Dollars_MONO_240430.zip)
+下载 [v.240430](https://kilimanjaro.sunnyview.tech/Dollars_MONO_240430.zip)
 
 ## 2024年01月22日
 - 新增面捕灵敏度设置
