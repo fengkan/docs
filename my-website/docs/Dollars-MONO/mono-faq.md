@@ -22,7 +22,7 @@ import TOCInline from '@theme/TOCInline';
 **原因二：打开相机时失败**
 
 **解决方案：**
-1. 下载最新版的 OBS
+1. 在这里下载最新版的 OBS。https://obsproject.com
 
 2. 打开 OBS，添加一个 Video Capture Device。
 
