@@ -10,6 +10,50 @@ import TOCInline from '@theme/TOCInline';
 
 <TOCInline toc={toc} />
 
+## 启动程序时异常关闭
+
+**原因一：缺少必要的运行库**
+
+**解决方案：**
+
+1. 访问以下页面，下载最新的 Visual C++ 运行库：[Microsoft 官方下载页面](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)  并下载： [vc_redist.x64.exe](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+2. 安装并重启电脑，然后尝试重新启动 MONO。
+
+**原因二：打开相机时失败**
+
+**解决方案：**
+1. 下载最新版的 OBS
+
+2. 打开 OBS，添加一个 Video Capture Device。
+
+![](../img/2024_12_12_11_25_04-OBS.png)
+
+3. 在 Device 列表中，找到 **OBS Virtual Camera**，并记下它在列表中的位置。
+
+![](../img/2024_12_12_11_25_30.png)
+
+4. 打开 MONO 目录下的 **settings.json** 文件（如果 MONO 目录下没有此文件，可以在以下路径找到：`C:\Users\{您的用户名}\AppData\LocalLow\SunnyView\Dollars_MONO`）
+
+![](../img/2024_12_12_11_30_09.png)
+
+5. 在 **settings.json** 文件中，将 **camID** 的值更改为 **OBS Virtual Camera** 在设备列表中的排位减去 1。
+
+例如，如果 OBS Virtual Camera 排在第 3 位，将 camID 设置为 2。
+
+![](../img/2024_12_12_11_33_49.png)
+
+6. 启动 MONO，确认是否可以正常打开。
+
+如果在完成上述修改后，MONO 能够正常启动，说明您的相机列表中可能存在某个设备导致程序异常关闭。您可以逐一尝试相机，并注意观察哪个设备会引发问题。
+
+如果发现某个相机导致程序崩溃，建议将 MONO 中的相机列表发送至 hi@sunnyview.tech，并标明引起异常关闭的相机，我们将进一步调查。感谢您的配合与支持！
+
+:::danger 已知问题
+
+ShareX 的 screen-capture-recorder 相机，会导致 MONO 异常关闭。建议您通过以上介绍的方法避开选择该相机。
+
+:::
+
 ## 相机无法打开
 
 建议您使用其他程序尝试打开摄像头，以确认摄像头与电脑的连接正常。
