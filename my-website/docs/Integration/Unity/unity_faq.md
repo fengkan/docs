@@ -33,3 +33,19 @@ import TOCInline from '@theme/TOCInline';
 之后就可以看到虚拟人物可以正常移动了。
 
 ![](../../img/unityfaq2.gif)
+
+## 面捕无效
+
+您可以确认以下几点，
+
+- 模型 Blendshape 有效
+- 面捕映射文件设置正确
+- 没有其他组件可能改变 Blendshape 值（比如 VRMInstance）。
+
+针对于 **VRMInstance**，您可以将其 **Update Type** 改为 **None**。
+
+![](../../img/2024_12_18_11_38_31.png)
+
+如果您希望保留 **VRMInstance** 的 **Update**，可以将 **Update Type** 改为 **Update**，并且在 **Script Execution Order** 中，将 **VRMInstance** 置于 **FaceCapController** 之前，以确保 **Dollars MoCap** 的面捕数据不被覆盖。
+
+![](../../img/2024_12_18_11_38_49.png)
