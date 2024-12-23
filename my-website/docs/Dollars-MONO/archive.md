@@ -5,7 +5,14 @@ title: 历史版本
 
 # Dollars MONO 历史版本
 
-##  2024年11月15日
+## 2024年11月28日
+- 内嵌 NVIS 面部捕捉
+- 提升视频回放体验
+- 默认打开增强模式
+
+下载 [v.241128](https://kilimanjaro.sunnyview.tech/Dollars_MONO_241128.zip)
+
+## 2024年11月15日
 - BVH 新增兼容 Cascadeur 格式
 
 下载 [v.241115](https://kilimanjaro.sunnyview.tech/Dollars_MONO_241115.zip)
@@ -15,7 +22,6 @@ title: 历史版本
 - 若干小修正
 
 下载 [v.240711](https://kilimanjaro.sunnyview.tech/Dollars_MONO_240711.zip)
-
 
 ## 2024年04月30日
 - 新增增强模式！
@@ -54,7 +60,6 @@ title: 历史版本
 
 下载 [v.230928](https://kilimanjaro.sunnyview.tech/Dollars_Markerless_230928.zip)
 
-
 ## 2023年09月18日
 - 校准后更好的站立姿势
 - 修正流送至 iClone 时无法正常关闭
@@ -69,7 +74,6 @@ title: 历史版本
 - （部分）修正回放视频时手部抖动 
 
 下载 [v.230903](https://kilimanjaro.sunnyview.tech/Dollars_Markerless_230903.zip)
- 
 
 ## 2023年07月22日
 - VAM 面部捕捉
@@ -87,7 +91,6 @@ title: 历史版本
 
 下载 [v.230708](https://kilimanjaro.sunnyview.tech/Dollars_Markerless_230708.zip)
 
-
 ## 2023年06月26日
 - 全新的动作解析引擎！
 - 修正 BVH 帧数失常
@@ -101,12 +104,10 @@ title: 历史版本
 
 下载 [v.230421](https://kilimanjaro.sunnyview.tech/Dollars_Markerless_230421.zip)
 
-
 ## 2023年03月06日
 - 新增道乐师转播摄像头，在多个程序间共享摄像头输入
 - 新增容错度设置
 - 默认动捕模式改为上半身模式
- 
 
 ## 2023年02月22日
 - 文件大小缩减 50%，运行时 CPU 开销缩减 30%，GPU 开销缩减 50%！
