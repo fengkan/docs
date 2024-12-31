@@ -10,7 +10,7 @@ import TOCInline from '@theme/TOCInline';
 
 <TOCInline toc={toc} />
 
-## 表情和动作如何结合起来
+## 表情和动作如何结合起来{#motion-and-facial}
 
 您可以像下图中演示的，使用 Apply Additive 动画节点，将表情动画和动作动画结合起来。
 
@@ -18,11 +18,11 @@ import TOCInline from '@theme/TOCInline';
 
 您可以在几乎所有道乐师的虚幻示例中，找到表情和动作的结合的部分，建议您下载参考。下载链接请见各视频简介。
 
-## 蓝图编译错误
+## 蓝图编译错误{#compile-error}
 
 通常这是由于插件目录被改动，导致引用出错。建议您根据[这里](/ue-getstarted)的步骤重新复制插件。
 
-## 动作卡顿
+## 动作卡顿{#motion-lag}
 
 请确认在编辑器选项中，您没有勾选 Use Less CPU when in Background
 
@@ -36,7 +36,7 @@ import TOCInline from '@theme/TOCInline';
 
 感谢提供帮助的热心用户！
 
-## 5.X 打包之后动捕失效
+## 5.X 打包之后动捕失效{#package-error}
 
 可以尝试以下两点：
 
@@ -48,19 +48,19 @@ import TOCInline from '@theme/TOCInline';
 
 再次感谢提供帮助的热心用户！
 
-## 5.1 无法复制 Ctrl Rig
+## 5.1 无法复制 Ctrl Rig{#copy-ctrl-rig-error}
 
 5.1 中复制 Ctrl Rig 会引起虚幻崩溃，暂时没有直接的解决方案。
 
 可以将骨骼模型导入低版本的虚幻，生成 Ctrl Rig 之后复制到 5.1 中。
 
-## 如何录制动作和表情
+## 如何录制动作和表情{#record}
 
 可以参照以下视频教程，12分30秒左右开始。
 
 <iframe src="//player.bilibili.com/player.html?bvid=BV1n14y1N7QU&autoplay=0&t=757.9" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-## 切换动画蓝图后动捕失效
+## 切换动画蓝图后动捕失效{#animbp-error}
 
 可以修改道乐师的动画蓝图，将 Begin Play 事件改为 Initialize Animation，如下图所示：
 

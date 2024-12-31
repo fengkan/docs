@@ -10,7 +10,7 @@ import TOCInline from '@theme/TOCInline';
 
 <TOCInline toc={toc} />
 
-## Unity 场景中的人物飘动
+## Unity 场景中的人物飘动{#floating}
 
 如果您发现你在摄像头前移动了小段距离，Dollars MONO 也识别出了您的移动，但是在 Unity 场景中，您的虚拟人物不移动，或者移动了一大段距离，比如下图，
 
@@ -34,7 +34,7 @@ import TOCInline from '@theme/TOCInline';
 
 ![](../../img/unityfaq2.gif)
 
-## 面捕无效
+## 面捕无效{#facial-not-working}
 
 您可以确认以下几点，
 
