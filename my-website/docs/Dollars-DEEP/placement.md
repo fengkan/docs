@@ -30,7 +30,7 @@ Dollars DEEP 当前只支持相机水平放置，尽量不要有倾角。
 
 ![](../img/2024_02_01_14_16_39-Dollars.png)
 
-:::danger注意
+:::danger 注意
 请不要选择 Femto Bolt Depth，可能会导致程序无响应。
 :::
 

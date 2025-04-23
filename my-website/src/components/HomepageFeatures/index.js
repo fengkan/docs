@@ -2,7 +2,8 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 
-const FeatureList = [
+// 动捕产品（1-3）
+const MotionCaptureProducts = [
   {
     title: 'Dollars MONO',
     link: '/category/dollars-mono',
@@ -33,7 +34,7 @@ const FeatureList = [
       </>
     ),
   },
-    {
+  {
     title: 'Dollars VIVA',
     link: '/category/dollars-viva',
     Svg: '/img/motion-capture-viva.png',
@@ -48,7 +49,10 @@ const FeatureList = [
       </>
     ),
   },
+];
 
+// 面捕产品（4-6）
+const FacialCaptureProducts = [
   {
     title: 'Dollars EGAO',
     link: '/category/dollars-egao',
@@ -94,7 +98,10 @@ const FeatureList = [
       </>
     ),
   },
+];
 
+// 创新产品（7）
+const InnovativeProducts = [
   {
     title: 'Dollars MOTS',
     link: '/category/dollars-mots',
@@ -109,6 +116,24 @@ const FeatureList = [
       </>
     ),
   },
+  {
+    title: 'Dollars SOMA',
+    link: '/category/dollars-soma',
+    Svg: '/img/victory.png',
+    description1: (
+      <>
+       基于摄像头的姿势、手势识别
+      </>
+    ),
+    description2: (
+      <>
+      </>
+    ),
+  },
+];
+
+// 集成（8-9）
+const IntegrationFeatures = [
   {
     title: '与引擎以及 DCC 软件的整合',
     link: '/category/%E4%B8%8E%E5%BC%95%E6%93%8E%E4%BB%A5%E5%8F%8A-dcc-%E8%BD%AF%E4%BB%B6%E7%9A%84%E6%95%B4%E5%90%88',
@@ -157,13 +182,91 @@ function Feature({Svg, title, description1, description2, link}) {
   );
 }
 
+// For the second row features, we'll use a wider layout (col--6 instead of col--4)
+function AdditionalFeature({Svg, title, description1, description2, link}) {
+  return (
+    <div className={clsx('col col--6')} >
+      <a href={link} style={{ textDecoration: 'none'}}>
+          <div className="text--center">
+            <img src={Svg} alt="alternative text" className={styles.featureSvg} />
+          </div>
+          <div className="text--center padding-horiz--md">
+            <h3 style={{marginTop:'2em'}}>{title}</h3>
+            <p>{description1}<br/>{description2}</p>
+            <p></p>
+          </div>
+      </a>
+    </div>
+  );
+}
+
+// For the innovative products, we'll use a centered layout
+function InnovativeFeature({Svg, title, description1, description2, link}) {
+  return (
+    <div className={clsx('col col--6 offset-col--3')} >
+      <a href={link} style={{ textDecoration: 'none'}}>
+          <div className="text--center">
+            <img src={Svg} alt="alternative text" className={styles.featureSvg} />
+          </div>
+          <div className="text--center padding-horiz--md">
+            <h3 style={{marginTop:'2em'}}>{title}</h3>
+            <p>{description1}<br/>{description2}</p>
+            <p></p>
+          </div>
+      </a>
+    </div>
+  );
+}
+
 export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
+        {/* 动捕产品 section */}
         <div className="row">
-          {FeatureList.map((props, idx) => (
+          <div className="col col--12">
+            <h2 className="text--center" style={{marginBottom: '2rem', fontSize: '2rem', fontWeight: 'bold'}}>动捕产品</h2>
+          </div>
+        </div>
+        <div className="row">
+          {MotionCaptureProducts.map((props, idx) => (
             <Feature key={idx} {...props} />
+          ))}
+        </div>
+        
+        {/* 面捕产品 section */}
+        <div className="row" style={{marginTop: '4rem'}}>
+          <div className="col col--12">
+            <h2 className="text--center" style={{marginBottom: '2rem', fontSize: '2rem', fontWeight: 'bold'}}>面捕产品</h2>
+          </div>
+        </div>
+        <div className="row">
+          {FacialCaptureProducts.map((props, idx) => (
+            <Feature key={idx} {...props} />
+          ))}
+        </div>
+        
+        {/* 创新产品 section */}
+        <div className="row" style={{marginTop: '4rem'}}>
+          <div className="col col--12">
+            <h2 className="text--center" style={{marginBottom: '2rem', fontSize: '2rem', fontWeight: 'bold'}}>交互产品</h2>
+          </div>
+        </div>
+        <div className="row">
+          {InnovativeProducts.map((props, idx) => (
+            <InnovativeFeature key={idx} {...props} />
+          ))}
+        </div>
+        
+        {/* 集成 section */}
+        <div className="row" style={{marginTop: '4rem'}}>
+          <div className="col col--12">
+            <h2 className="text--center" style={{marginBottom: '2rem', fontSize: '2rem', fontWeight: 'bold'}}>集成与常见问题</h2>
+          </div>
+        </div>
+        <div className="row">
+          {IntegrationFeatures.map((props, idx) => (
+            <AdditionalFeature key={idx} {...props} />
           ))}
         </div>
       </div>
