@@ -5,6 +5,18 @@ title: 历史版本
 
 # Dollars MONO 历史版本
 
+## 2025年03月30日
+- inZOI 优化
+- 若干修正
+
+下载 [v.250330](https://kilimanjaro.sunnyview.tech/Dollars_MONO_250330.zip)
+
+## 2025年01月03日
+- MONO 运行于 60FPS！
+- 若干修正
+
+下载 [v.250103](https://kilimanjaro.sunnyview.tech/Dollars_MONO_250103.zip)
+
 ## 2024年11月28日
 - 内嵌 NVIS 面部捕捉
 - 提升视频回放体验
