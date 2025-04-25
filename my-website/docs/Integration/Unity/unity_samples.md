@@ -28,3 +28,18 @@ Unity 版本：2021.3.9
 
 https://pan.baidu.com/s/16nXujjJdWPmF0O8zaJ-URw?pwd=sfit
 
+## 多人动捕
+
+https://pan.baidu.com/s/10JPAIZ-QQckqZIzFw6q8IA?pwd=6ioj
+
+## 姿势识别
+
+https://pan.baidu.com/s/15t3VUIkQvC9Lzu4xVVYA5A?pwd=vwr4
+
+## 防止动捕穿模
+
+https://github.com/SunnyViewTech/MuscleSettings
+
+## MMD 模型
+
+https://pan.baidu.com/s/1JMCO0PHoWDviCOw6uEecRw?pwd=5pbz
