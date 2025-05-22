@@ -8,7 +8,7 @@ slug: /blender-vrm-facecap
 :::danger 注意
 这里介绍的方法依赖第三方收费插件。
 
-如果您希望使用免费的道乐师原生 Blender 插件，请参见[这里](/blender-plugin)。
+如果您希望使用免费的道乐师原生 Blender 插件，请参见[这里](/blender-addon)。
 :::
 
 # 对 VRM 文件进行实时面部捕捉

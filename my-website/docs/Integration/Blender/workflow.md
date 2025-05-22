@@ -18,7 +18,7 @@ slug: /blender-workflow
 
 在 Blender 中导入您的模型。
 
-您可以在[这里](/blender-plugin#models)查看对于模型的要求。
+您可以在[这里](/blender-addon#models)查看对于模型的要求。
 
 ### 3. 配置面部捕捉 Mesh
 

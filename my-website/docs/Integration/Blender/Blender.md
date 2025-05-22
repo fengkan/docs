@@ -1,7 +1,7 @@
 ---
 sidebar_position: 10
 title: 准备使用
-slug: /blender-plugin
+slug: /blender-addon
 ---
 
 # 在 Blender 中使用道乐师插件
