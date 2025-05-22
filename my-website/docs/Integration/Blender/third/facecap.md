@@ -4,6 +4,13 @@ title: 非 VRM 模型的面捕
 slug: /blender-facecap
 ---
 
+:::danger 注意
+这里介绍的方法依赖第三方收费插件。
+
+如果您希望使用免费的道乐师原生 Blender 插件，请参见[这里](/blender-plugin)。
+:::
+
+
 # 对于非 VRM 模型文件进行实时面部捕捉
 
 对于非 VRM 模型，您可以通过 LiveLinkFace 方式的面捕流送，借助于第三方插件实现实时面部捕捉。

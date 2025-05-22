@@ -5,6 +5,12 @@ slug: /blender-vrm-facecap
 
 ---
 
+:::danger 注意
+这里介绍的方法依赖第三方收费插件。
+
+如果您希望使用免费的道乐师原生 Blender 插件，请参见[这里](/blender-plugin)。
+:::
+
 # 对 VRM 文件进行实时面部捕捉
 
 :::info 本文中使用版本
@@ -31,7 +37,7 @@ VMC4B 1.1.0，https://booth.pm/en/items/3432915
 
 两者区别如下，左侧为修改后。
 
-![](../../img/2024_01_23_10_07_00-config.py.png)
+![](../../../img/2024_01_23_10_07_00-config.py.png)
 
 ## 确认 VRM Blend Shape Proxy 名
 
@@ -96,15 +102,15 @@ TongueOut
 
 - 如果不是，则进行修改。例如 https://hub.vroid.com/characters/6076267521797946217/models/7503229929586800812
 
-![](../../img/2024_01_23_10_36_19-Blender.png)
+![](../../../img/2024_01_23_10_36_19-Blender.png)
 
 修改前
 
-![](../../img/2024_01_23_10_44_00-Blender.png)
+![](../../../img/2024_01_23_10_44_00-Blender.png)
 
 修改后
 
-![](../../img/2024_01_23_10_44_14-Blender.png)
+![](../../../img/2024_01_23_10_44_14-Blender.png)
 
 - 全部修改后，导出 VRM。
 
@@ -112,4 +118,4 @@ TongueOut
 
 - 如果 VRM Proxy 已经是如上的形式，则可以直接进行面部捕捉。例如 https://hub.vroid.com/characters/7173430845109381047/models/6304450858378362082
 
-![](../../img/2024_01_23_12_58_02-Blender.png)
+![](../../../img/2024_01_23_12_58_02-Blender.png)
