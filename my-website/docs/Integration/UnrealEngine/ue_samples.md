@@ -14,6 +14,12 @@ slug: /ue-samples
 
 ## MetaHuman
 
+虚幻版本：5.6
+
+https://pan.baidu.com/s/1U9Zz5B3bfpEamaap1DxtGQ?pwd=xwux
+
+## MetaHuman
+
 虚幻版本：5.4
 
 https://pan.baidu.com/s/12FzGNt2bY8o7YPn5sinGIA?pwd=vi8r
