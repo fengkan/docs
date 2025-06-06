@@ -39,9 +39,11 @@ https://pan.baidu.com/s/1z7LdIw5JpH3hO9wgyae9rw?pwd=q4z6
 
 1. 选择场景中的 Dollar Receiver，点击详情中的 Listen
 
+如果点击 Listen 前，OSCServer 变量不为 None，可以点击 Stop 将其清空。
+
 ![](../../img/2025_06_06_20_22_05.png)
 
-2. 可以看到 OSCServer 变量被赋值
+2. 点击 Listen 后，可以看到 OSCServer 变量被赋值
 
 ![](../../img/2025_06_06_20_24_15.png)
 
