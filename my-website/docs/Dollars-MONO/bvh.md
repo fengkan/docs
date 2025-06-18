@@ -23,16 +23,30 @@ title: 录制 BVH 文件
 
 预估大小：每分钟 10M
 
-## 保存位置
+## 文件名与保存位置
 
-### Windows
+### v.250618及之后版本
 
-录制的文件将以当前时间戳为文件名，存放于道乐师程序根目录下。
+录制的文件将以当前时间戳作为文件名，并根据操作系统的不同，默认保存在以下目录中。
 
-![](../img/Fl6Q4YjY87r8iBedfrMyncM6LFMK.png)
+- Windows
 
-### macOS
+```C:\Users\[用户名]\AppData\LocalLow\SunnyView\Dollars_MONO\```
 
-录制的文件将以当前时间戳为文件名，保存在以下目录中。
+- MacOS
 
 ```/Users/[用户名]/Library/Application Support/com.SunnyView.Dollars-MONO```
+
+- Linux
+
+```~/.config/unity3d/SunnyView/Dollars_MONO/```
+
+您可以在设置中修改存放的目录。
+
+请确保您设置的目标目录具有写入权限。若 MONO 无法在指定目录中成功保存文件，文件将自动保存在上述默认路径中。
+
+:::info 建议
+
+我们建议您修改存放目录后，先尝试进行一次录制，以确保该目录可以正确写入。
+
+:::
