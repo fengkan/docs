@@ -9,7 +9,7 @@ Dollars MONO 提供”上半身“，“全身(跳跃)”以及“全身(平地)
 
 ![](../img/FqK6yqb6STxaAsL3gM4uMeaVlMc4.png)
 
-:::warning 注意
+:::info 注意
 
 当增强模式激活时，全身(跳跃)与全身(平地)将合并为全身模式。
 
