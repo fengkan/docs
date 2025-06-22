@@ -11,12 +11,11 @@ slug: /blender-addon
 道乐师的以下产品支持原生 Blender 插件：
 
 - Dollars MONO（自 v.250522 起）
+- Dollars EGAO（自 v.250601 起）
+- Dollars NVIS（自 v.250609 起）
 
 :::
 
-:::warning 注意
-当前不支持在 Blender4.4 中进行录制。
-:::
 
 ## 插件下载与安装
 
