@@ -17,9 +17,13 @@ https://kilimanjaro.sunnyview.tech/ineditor/Dollars.zip
 
 https://kilimanjaro.sunnyview.tech/ineditor/Dollars_UE4Mannequin.zip
 
-- 适用于 MetaHuman 的 Control Rig
+- 适用于 MetaHuman（通过 Quixel Bridge 下载）的 Control Rig
 
 https://kilimanjaro.sunnyview.tech/ineditor/Dollars_MetaHuman.zip
+
+- 适用于 MetaHuman（5.6 以上在本地生成）的 Control Rig
+
+https://kilimanjaro.sunnyview.tech/ineditor/Dollars_MetaHumanCharacters.zip
 
 ## 示例项目
 
@@ -31,9 +35,13 @@ https://pan.baidu.com/s/10IQB58uTfxPsy4yy8UJrzw?pwd=jn26
 
 https://pan.baidu.com/s/1mzXcZSDQ0JCvqvHyCqIG9g?pwd=954e
 
-- MetaHuman
+- MetaHuman（通过 Quixel Bridge 下载）
 
 https://pan.baidu.com/s/1z7LdIw5JpH3hO9wgyae9rw?pwd=q4z6
+
+- MetaHuman（5.6 以上在本地生成）
+
+https://pan.baidu.com/s/1zPFOtcLbNYLRVzXEV1mvww?pwd=prax
 
 ## 使用示例项目（以 UE4 Mannequin 项目为例）
 
@@ -47,7 +55,7 @@ https://pan.baidu.com/s/1z7LdIw5JpH3hO9wgyae9rw?pwd=q4z6
 
 ![](../../img/2025_06_06_20_24_15.png)
 
-3. 选择角色蓝图，点击详情中的 Update Anim in Editor
+3. 选择角色蓝图，点击详情中的 Update Anim in Editor （5.6 以上本地生成的 MetaHuman 不需要这一步）
 
 ![](../../img/2025_06_06_20_25_12.png)
 
