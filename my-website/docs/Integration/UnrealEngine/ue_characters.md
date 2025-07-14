@@ -16,9 +16,13 @@ slug: /ue-characters
 
 如果您的角色基于以下骨骼，您可以使用道乐师提供的对应 Ctrl Rig，实现动作捕捉。
 
-- MetaHuman
+- MetaHuman（通过 Quixel Bridge 下载）
 
 <iframe src="//player.bilibili.com/player.html?bvid=BV1jerUYgEEX&autoplay=0" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+- MetaHuman（5.6 以上本地生成）
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1druBz3E29&autoplay=0" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 - Daz3D Genesis8 & 8.1
 

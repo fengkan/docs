@@ -1,5 +1,5 @@
 ---
-sidebar_position: 30
+sidebar_position: 12
 title: 在编辑器中使用（Beta）
 slug: /ue-ineditor
 ---	
@@ -60,3 +60,19 @@ https://pan.baidu.com/s/1zPFOtcLbNYLRVzXEV1mvww?pwd=prax
 ![](../../img/2025_06_06_20_25_12.png)
 
 4. 打开道乐师中的虚幻同步，便可在编辑器中实时控制虚拟角色
+
+## 使用您的角色
+
+您需要使用本页面下载的插件和 Ctrl Rig，替换官网下载的版本，并完成我们在[各个视频](/ue-characters)中介绍的整合步骤。
+
+此外，还需额外完成以下两个设置，
+
+1. 在角色蓝图中，添加一个自定义事件，在其中为所有 Skeletal Mesh 激活 Set Update Animation in Editor。并将该事件设为可在编辑器中调用。
+
+![](../../img/2025_07_14_19_35_19-DollarsUE4MannquininEditor.jpg)
+
+2. 在场景中，除了放置角色蓝图和 DollarsReceiver 外，再添加一个 ```Dollars > Blueprints > EUB_DollarsTick```。
+
+![](../../img/2025_07_14_19_37_28-DollarsUE4MannquininEditor.jpg)
+
+完成以上步骤后，您就可以在不进入 Play Mode 情况下，接收 OSC 数据并驱动角色动画。
