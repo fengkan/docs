@@ -1,5 +1,5 @@
 ---
-sidebar_position: 35
+sidebar_position: 37
 title: 面部捕捉模块
 ---
 
@@ -11,7 +11,7 @@ MONO 从 v.241128 起，提供 EGAO 与 NVIS 两个面捕模块。您可以根�
 
 :::warning
 
-MONO 的 macOS 版本，当前只提供 EGAO 面捕模块。
+MONO 的 macOS、Linux 版本，当前只提供 EGAO 面捕模块。
 
 :::
 
