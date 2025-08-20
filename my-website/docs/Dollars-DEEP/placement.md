@@ -24,7 +24,7 @@ Dollars DEEP 当前只支持相机水平放置，尽量不要有倾角。
 
 ![](../img/2023-10-20.png)
 
-### Femto Bolt
+### Femto Bolt（同样适用于 Femto Mega）
 
 如果您使用的是 Femto Bolt，请在相机选项中，选择 Femto Bolt RGB。
 

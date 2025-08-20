@@ -1,11 +1,11 @@
 ---
 sidebar_position: 6.5
-title: 连接 Femto Bolt
+title: 连接 Femto 系列
 ---
 
-# 连接 Femto Bolt
+# 连接 Femto Bolt 及 Femto Mega
 
-在使用 DEEP 前，请先使用一下步骤确认 Femto Bolt 正常连接并可以进行骨骼识别。
+在使用 DEEP 前，请先使用一下步骤确认 Femto 正常连接并可以进行骨骼识别。
 
 ## 确认摄像头正常工作
 
