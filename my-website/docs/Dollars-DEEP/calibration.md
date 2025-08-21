@@ -19,4 +19,10 @@ title: 校准
 
 ![](../img/2023-10-20_20-10-50.jpg)
 
+在校准过程中，摄像头会数次重启，请您保持校准姿势，直到“校准完成”的提示消息消失。
+
+以下是一个完整的校准过程，
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1U5YXzbEJQ&autoplay=0" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 每次进行动捕前，或者中途更换动捕演员时，您都需要进行校准。
