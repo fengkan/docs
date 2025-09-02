@@ -10,7 +10,7 @@ slug: /iClone
 
 您可以在[道乐师网站](https://www.sunnyview.tech/download)或者[Reallusion 插件市场](https://marketplace.reallusion.com/dollars-markerless-mocap)下载道乐师的 iClone8 插件。
 
-解压缩下载的文件，将其中的 DollarsMarkerlessMoCap 目录复制到 iClone8 的插件目录中。
+解压缩下载的文件，将其中的 DollarsMoCap 目录复制到 iClone8 的插件目录中。
 
 通常情况下，插件目录位于 `C:\Program Files\Reallusion\iClone 8\Bin64\OpenPlugin`。
 
