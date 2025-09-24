@@ -35,67 +35,61 @@ https://github.com/SunnyViewTech/MuscleSettings
 
 当虚拟形象的头部或身体较大时，手臂放在身体两侧容易发生穿模。可以通过限制手臂的上下活动范围来改善这一问题。
 
-1. 将 Upper Arm Front-Back Range 的下限设为 0。Current Position 设为最小值。
+1. 点击 TPose 按钮，将虚拟形象调整为 TPose。
 
-2. 将 Lower Arm Stretch Range 的上限设为 80，Current Position 设为最大值。此时虚拟形象将处于 APose。
+![](../img/2025_09_24_11_44_51-Dollars_MONO.jpg)
 
-![](../img/2025-09-23.jpg)
+2. 将 Current Position 拉到最左侧。调整 Upper Arm Up-Down Range 的最小活动范围。
 
-3. 将 Current Position 拉到最左侧。调整 Upper Arm Up-Down Range 的最小活动范围。
+3. 将 Current Position 拉到最右侧，调整 Upper Arm Up-Down Range 的最大活动范围。
 
-4. 将 Current Position 拉到最右侧，调整 Upper Arm Up-Down Range 的最大活动范围。
-
-5. 调整 Current Position，观察虚拟形象的动作并确认效果是否符合预期。
+4. 调整 Current Position，观察虚拟形象的动作并确认效果是否符合预期。
 
 <video controls width="50%">
   <source src="/2025-09-23 19-37-54-638_1.mp4"/>
 </video>
 
-6. 点击**保存**，完成设置。
+5. 点击**保存**，完成设置。
 
 ### 设置手臂的前后活动范围
 
 当虚拟形象手臂较长时，容易在身体前方交叉穿模。可以通过限制手臂的前后活动范围来减少这种情况。
 
-1. 将 Lower Arm Stretch Range 的上限设为 80，Current Position 设为最大值。
+1. 点击 TPose 按钮，将虚拟形象调整为 TPose。
 
-2. 将 Upper Arm Front-Back Range 的下限设为 0。Current Position 设为最小值。
+![](../img/2025_09_24_11_44_51-Dollars_MONO.jpg)
 
-3. 将 Upper Arm Up-Down Range 的最小值设为 60，Current Position 设为最小值。此时虚拟形象将处于 TPose。
-
-![](../img/2025-09-23_19-58-49-339.jpg)
-
-4. 调整 Upper Arm Front-Back Range 的上下限。
+2. 调整 Upper Arm Front-Back Range 的上下限。
 
 <video controls width="50%">
   <source src="/2025-09-23 19-58-49-339_1.mp4"/>
 </video>
 
-5. 如有需要，调整 Upper Arm Up-Down Range 的上下限。
+3. 如有需要，调整 Upper Arm Up-Down Range 的上下限。
 
 <video controls width="50%">
   <source src="/2025-09-23 19-58-49-339_2.mp4"/>
 </video>
 
-6. 调整 Lower Arm Stretch Range 的上下限。
+4. 调整 Lower Arm Stretch Range 的上下限。
 
 <video controls width="50%">
   <source src="/2025-09-23 19-58-49-339_3.mp4"/>
 </video>
 
-7. 调整 Upper Arm Up-Down Range 和 Lower Arm Stretch Range，使得他们的其取值范围大小类似。
+5. 调整 Upper Arm Up-Down Range 和 Lower Arm Stretch Range，使得他们的其取值范围大小类似。
 
 <video controls width="50%">
   <source src="/2025-09-23 19-58-49-339_4.mp4"/>
 </video>
 
-8. 调整各个 Current Position，确认效果。
+6. 调整各个 Current Position，确认效果。
 
 <video controls width="50%">
   <source src="/2025-09-23 19-58-49-339_5.mp4"/>
 </video>
 
-9. 点击**保存**，完成设置。
+7. 点击**保存**，完成设置。
 
 ## 多个 Profile
 
