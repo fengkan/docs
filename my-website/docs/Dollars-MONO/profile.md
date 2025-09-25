@@ -35,9 +35,9 @@ https://github.com/SunnyViewTech/MuscleSettings
 
 当虚拟形象的头部或身体较大时，手臂放在身体两侧容易发生穿模。可以通过限制手臂的上下活动范围来改善这一问题。
 
-1. 点击 TPose 按钮，将虚拟形象调整为 TPose。
+1. 点击右下角**重置**，将虚拟形象调整为 TPose。
 
-![](../img/2025_09_24_11_44_51-Dollars_MONO.jpg)
+![](../img/2025-09-25_18-18-55-891.jpg)
 
 2. 将 Current Position 拉到最左侧。调整 Upper Arm Up-Down Range 的最小活动范围。
 
@@ -55,9 +55,9 @@ https://github.com/SunnyViewTech/MuscleSettings
 
 当虚拟形象手臂较长时，容易在身体前方交叉穿模。可以通过限制手臂的前后活动范围来减少这种情况。
 
-1. 点击 TPose 按钮，将虚拟形象调整为 TPose。
+1. 点击右下角**重置**，将虚拟形象调整为 TPose。
 
-![](../img/2025_09_24_11_44_51-Dollars_MONO.jpg)
+![](../img/2025-09-25_18-18-55-891.jpg)
 
 2. 调整 Upper Arm Front-Back Range 的上下限。
 
