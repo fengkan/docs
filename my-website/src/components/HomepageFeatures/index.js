@@ -49,6 +49,21 @@ const MotionCaptureProducts = [
       </>
     ),
   },
+  {
+    title: 'Dollars SAYA',
+    link: '/category/dollars-saya',
+    Svg: '/img/selfie.png',
+    description1: (
+      <>
+        使用一台 iOS 设备，
+      </>
+    ),
+    description2: (
+      <>
+        即可进行面部、手指以及上半身捕捉。
+      </>
+    ),
+  },
 ];
 
 // 面捕产品（4-6）
