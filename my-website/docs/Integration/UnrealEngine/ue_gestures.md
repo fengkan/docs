@@ -51,3 +51,12 @@ slug: /ue-gestures
 - ```Gesture Name``` 参数表示捕捉到的姿势或手势的名称。
 - ```Value``` 参数在 ZoomIn 和 ZoomOut 动作中表示双手当前距离与动作触发时的比例；在其他动作中，该值始终为 0。
 
+## 示例项目
+
+您可以在这里看到使用 ZoomIn，ZoomOut 控制相机 FOV，并且通过姿势进行颜色切换的示例。
+
+https://pan.baidu.com/s/1q2Fe9FDh_PJalBb6GC5l4A?pwd=kjtj
+
+<video controls width="50%">
+  <source src="/ScreenRecording2025-10-22170831_1.mp4"/>
+</video>
