@@ -60,6 +60,10 @@ ShareX 的 screen-capture-recorder 相机，会导致 MONO 异常关闭。建议
 
 您也可以进入 Winows 的相机设置，检查 Dollars MONO 是否有权限使用摄像头。
 
+如果您可以在 OBS 中打开摄像头，您也可以通过 OBS 的虚拟摄像头将摄像头画面传入 Dollars MONO。
+
+关于 OBS 的虚拟摄像头的使用方法，可以参考[使用 OBS 虚拟摄像头作为输入](/Dollars-MONO/virtualcam)。
+
 ## 人漂浮或者陷入地面中{#characters-floating}
 
 当您使用摄像头实时捕捉时，开始动捕前进行一次[校准](/Dollars-MONO/calibration)，并且选择合适的[动捕模式](/Dollars-MONO/mode)，会减轻漂浮或者陷入地面的情况。
@@ -68,21 +72,15 @@ ShareX 的 screen-capture-recorder 相机，会导致 MONO 异常关闭。建议
 
 关于 OBS 的虚拟摄像头的使用方法，可以参考[使用 OBS 虚拟摄像头作为输入](/Dollars-MONO/virtualcam)。
 
-## 找不到 settings.json{#json-not-found}
+您也可以尝试勾选[智能贴地选项](/Dollars-MONO/ground)。
 
-您可以通过上方的齿轮按钮完成相关设置。
-
-## 视频捕捉卡顿{#stuttering}
+## 视频卡顿或其他问题{#stuttering}
 
 您可以尝试降低视频分辨率，或者视频帧率。
 
 或者您也可以使用外部播放器播放，然后通过 OBS 的虚拟摄像头将视频画面传入 Dollars MONO 中，使用外部播放器也可以为您提供一些播放的控制，更易于使用。
 
 关于 OBS 的虚拟摄像头的使用方法，可以参考[使用 OBS 虚拟摄像头作为输入](/Dollars-MONO/virtualcam)。
-
-## 是否有 Mac，手机版本{#versions}
-
-道乐师系列产品暂时没有 Mac 与手机版。
 
 ## 如何利用手机摄像头{#cellphone-cameras}
 
