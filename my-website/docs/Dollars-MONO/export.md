@@ -1,33 +1,35 @@
 ---
 sidebar_position: 50
-title: 录制 BVH 文件
+title: 导出
 ---
 
-# 录制 BVH 文件
+# 导出
 
-您可以按下图中按钮开始、结束 BVH 文件的录制。
+您可以按下图中按钮开始、结束录制。
 
 ![](../img/FgjblB_4YUSJS3mHz8dvVCR03oJ-.png)
 
-## 录制帧率
+## 导出格式
 
-### v.241128 及之前的版本
+MONO 当前支持导出为以下格式，
 
-录制频率：30FPS
+1. FBX
+2. BVH
+3. BVH for Cascadeur
 
-预估大小：每分钟 5M
+当您计划在 iClone 或者 Cartoon Animator 中使用 BVH 的话，请选用格式 2。
 
-### v.241223 及之后的版本
+如果您计划在 Cascadeur 中使用 BVH 的话，请选用格式 3。
 
-录制频率：60FPS
-
-预估大小：每分钟 10M
+除以上两种情况之外，您可以根据您的喜好选择导出的格式。
 
 ## 文件名与保存位置
 
-### v.250618及之后版本
+动作文件将以 "Dollars_" 加上当前时间戳作为文件名。
 
-录制的文件将以当前时间戳作为文件名，并根据操作系统的不同，默认保存在以下目录中。
+表情文件将以 "Dollars_BS_" 加上当前时间戳作为文件名。
+
+根据操作系统的不同，保存在以下目录中。
 
 - Windows
 
@@ -41,7 +43,7 @@ title: 录制 BVH 文件
 
 ```~/.config/unity3d/SunnyView/Dollars_MONO/```
 
-#### 修改保存位置
+### 修改保存位置
 
 您可以在设置中修改存放的目录。
 
@@ -56,14 +58,3 @@ title: 录制 BVH 文件
 我们建议您修改存放目录后，先尝试进行一次录制，以确保该目录可以正确写入。
 
 :::
-
-### 非 v.250618及之后版本
-
-- Windows
-
-录制的文件将以当前时间戳为文件名，存放于道乐师程序根目录下。
-
-- MacOS
-
-```/Users/[用户名]/Library/Application Support/com.SunnyView.Dollars-MONO```
-
