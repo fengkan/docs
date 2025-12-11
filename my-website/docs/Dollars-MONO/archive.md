@@ -5,6 +5,22 @@ title: 历史版本
 
 # Dollars MONO 历史版本
 
+## 2025年11月10日
+- 修正超过 20 个摄像头引起的程序崩溃
+
+下载 [v.251110](https://pan.baidu.com/s/1-ig08MJXKYsBRclFWcKpCA?pwd=4wjr)
+
+## 2025年10月31日
+- 修正 NVIS 黑屏
+- 修正非英文安装目录无法打开
+
+下载 [v.251031](https://pan.baidu.com/s/1aUvT3c-zkWOUeezrbw_f5w?pwd=ssgv)
+
+## 2025年09月24日
+- 更多的 Profile 设置
+
+- 下载 [v.250924](https://pan.baidu.com/s/166t986dlWGlOs6HGSMoVww?pwd=7jcp)
+
 ## 2025年08月05日
 - 智能接地
 - 表情参数个别调整
