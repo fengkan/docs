@@ -37,3 +37,9 @@ title: 测量上臂间距
 测量过程中可随时再次点击按钮取消。
 
 测量完成后，您可根据需要微调上臂间距参数，以获得更理想的表现效果。
+
+## 测量过程演示视频
+
+以下视频演示了测量上臂间距的过程。
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1UdiEBWE5c&autoplay=0" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
