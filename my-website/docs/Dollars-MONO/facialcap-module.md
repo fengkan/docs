@@ -29,9 +29,11 @@ https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/
 
 ![](../img/2024_08_13_17_11_40.png)
 
-正确安装并且启动 NVIS 模块后，您可以在 MONO 程序基础上，看到 NVIS 的面捕窗口。
+正确安装并且启动 NVIS 模块后，您可以在 MONO 程序基础上，看到 NVIS 的面捕窗口。 
 
 ![](../img/2024_11_28_15_01_49.png)
+
+MONO v.260212 起，NVIS 模块内嵌至 MONO，不会再打开单独的窗口。
 
 ### NVIS 设置
 
