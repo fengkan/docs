@@ -5,6 +5,24 @@ title: 历史版本
 
 # Dollars MONO 历史版本
 
+## 2026年02月12日
+- 文件批处理
+- NVIS 转换为动态库
+- FBX 相关修正
+
+下载 [v.260212](https://kilimanjaro.sunnyview.tech/Dollars_MONO_260212_4.zip)
+
+## 2026年01月27日
+- 设定导出帧率
+- 若干 FBX 相关修正
+
+下载 [v.260127](https://kilimanjaro.sunnyview.tech/Dollars_MONO_260127.zip)
+
+## 2025年12月11日
+- 导出 FBX
+
+下载 [v.251211](https://kilimanjaro.sunnyview.tech/Dollars_MONO_251211_2.zip)
+
 ## 2025年11月10日
 - 修正超过 20 个摄像头引起的程序崩溃
 
