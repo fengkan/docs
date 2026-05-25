@@ -1,0 +1,30 @@
+# 道乐师 Dollars MoCap 使用文档
+
+> 道乐师官方使用文档,由晴观科技维护。包含动作捕捉与面部捕捉全系列产品的安装指南、功能说明、问题排查,以及虚幻引擎、Unity、Blender、iClone 等集成教程。
+
+## 动作捕捉产品
+
+- [Dollars MONO](https://docs.sunnyview.tech/category/dollars-mono): 单摄像头无穿戴动作捕捉,包含安装、增强模式、面部捕捉子模块、导出格式与 FAQ。
+- [Dollars DEEP](https://docs.sunnyview.tech/category/dollars-deep): 基于 Azure Kinect 或奥比中光 Femto 的深度摄像头动作捕捉,包含标定、摆位与捕捉模式。
+- [Dollars VIVA](https://docs.sunnyview.tech/category/dollars-viva): HTC Vive Tracker 动作捕捉。
+- [Dollars SAYA](https://docs.sunnyview.tech/category/dollars-saya): iOS 端动作与面部捕捉。
+
+## 面部捕捉产品
+
+- [Dollars EGAO](https://docs.sunnyview.tech/category/dollars-egao): 普通摄像头面部捕捉,支持 ARKit Blendshape。
+- [Dollars NVIS](https://docs.sunnyview.tech/category/dollars-nvis): 基于 NVIDIA AR SDK 的面部捕捉。
+- [Dollars LINK](https://docs.sunnyview.tech/category/dollars-link): iClone 8 面部动画桥接。
+
+## 交互产品
+
+- [Dollars MOTS](https://docs.sunnyview.tech/category/dollars-mots): 文本生成动作。
+- [Dollars SOMA](https://docs.sunnyview.tech/category/dollars-soma): 姿态与手势识别。
+
+## 集成教程
+
+- [集成总览](https://docs.sunnyview.tech/category/integration): 引擎与 DCC 软件集成文档。
+- 包含虚幻引擎、Unity、Blender、iClone 的集成说明。
+
+## 相关站点
+
+- [产品官网](https://www.sunnyview.tech): 产品介绍、价格与下载。
