@@ -5,6 +5,16 @@ title: 历史版本
 
 # Dollars MONO 历史版本
 
+## 2026年06月15日
+- 若干修正
+
+下载 [v.260615](https://kilimanjaro.sunnyview.tech/Dollars_MONO_260615.zip)
+
+## 2026年05月15日
+- 改进了界面与交互体验
+
+下载 [v.260515](https://kilimanjaro.sunnyview.tech/Dollars_MONO_260515.zip)
+
 ## 2026年02月12日
 - 文件批处理
 - NVIS 转换为动态库
