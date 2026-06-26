@@ -151,7 +151,7 @@ const InnovativeProducts = [
 const IntegrationFeatures = [
   {
     title: '与引擎以及 DCC 软件的整合',
-    link: '/category/%E4%B8%8E%E5%BC%95%E6%93%8E%E4%BB%A5%E5%8F%8A-dcc-%E8%BD%AF%E4%BB%B6%E7%9A%84%E6%95%B4%E5%90%88',
+    link: '/category/integration',
     Svg: '/img/digital-platform.png',
     description1: (
       <>
