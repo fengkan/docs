@@ -12,6 +12,12 @@ slug: /ue-samples
 对于包含特定插件的项目，例如 Character Creator、VRM 或 Daz3D 角色，由于这些插件只与特定虚幻版本兼容，如果您不确定如何升级插件，建议使用该项目所对应的虚幻版本打开。
 :::
 
+## MetaHuman (使用 MetaHuman Vampire Character Asset)
+
+虚幻版本：5.8
+
+https://pan.baidu.com/s/1Emzmb_5K2K_xTlfxyjjwCA?pwd=tmwe
+
 ## MetaHuman
 
 虚幻版本：5.6

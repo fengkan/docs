@@ -113,6 +113,7 @@ slug: /ue-livelink
 
 ![](../../img/2026_07_01_14_15_06.png)
 
+本节完成后的项目可在 [示例项目下载](/ue-samples) 页面获取，对应其中的 MetaHuman（使用 MetaHuman Vampire Character Asset，虚幻 5.8）。
 
 ## 打包
 
