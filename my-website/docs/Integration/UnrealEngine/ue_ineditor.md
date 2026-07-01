@@ -1,5 +1,5 @@
 ---
-sidebar_position: 12
+sidebar_position: 50
 title: 在编辑器中使用
 slug: /ue-ineditor
 ---	

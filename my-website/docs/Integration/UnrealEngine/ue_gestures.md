@@ -1,5 +1,5 @@
 ---
-sidebar_position: 18
+sidebar_position: 80
 title: 姿势识别
 slug: /ue-gestures
 ---

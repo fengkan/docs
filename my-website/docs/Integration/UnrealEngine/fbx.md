@@ -1,5 +1,5 @@
 ---
-sidebar_position: 15
+sidebar_position: 60
 title: 导入 FBX
 slug: /ue-fbx
 ---
