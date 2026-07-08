@@ -113,6 +113,12 @@ slug: /ue-livelink
 
 ![](../../img/2026_07_01_14_15_06.png)
 
+注意，对于 MetaHuman 角色来说，您需要在场景中勾选蓝图的 Use Live Link 和 Use ARKit 选项。
+
+![](../../img/2026_07_08_11_34_09.png)
+
+### 示例项目
+
 本节完成后的项目可在 [示例项目下载](/ue-samples) 页面获取，对应其中的 MetaHuman（使用 MetaHuman Vampire Character Asset，虚幻 5.8）。
 
 ## 打包
