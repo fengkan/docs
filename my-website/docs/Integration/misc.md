@@ -1,5 +1,5 @@
 ---
-sidebar_position: 40
+sidebar_position: 50
 title: 更多 DCC 软件
 slug: /dcc/other
 
