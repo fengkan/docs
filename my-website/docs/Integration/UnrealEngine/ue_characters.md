@@ -12,11 +12,9 @@ slug: /ue-characters
 
 ### 使用 Live Link 插件
 
-若您使用的版本支持 Live Link（MONO v.260623 及以上、虚幻 5.3 及以上），并且您了解虚幻 IK 重定向机制，推荐优先使用此方式。
+若您使用的版本支持 Live Link（MONO v.260623 及以上、虚幻 5.3 及以上），并且您了解虚幻 IK 重定向机制，推荐优先使用此方式，具体步骤见 [使用 Live Link 插件](/ue-livelink)。
 
-若您还不熟悉 IK 重定向，可以参考 Epic 官方文档 [Runtime IK Retargeting](https://dev.epicgames.com/documentation/unreal-engine/runtime-ik-retargeting-in-unreal-engine)。
-
-具体步骤见 [使用 Live Link 插件](/ue-livelink)。
+若您还不熟悉 IK 重定向，可以先参考 Epic 官方文档 [Runtime IK Retargeting](https://dev.epicgames.com/documentation/unreal-engine/runtime-ik-retargeting-in-unreal-engine)。
 
 以下视频以 MetaHuman 角色为例演示了完整流程。
 
