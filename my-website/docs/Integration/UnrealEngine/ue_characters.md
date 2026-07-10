@@ -18,6 +18,10 @@ slug: /ue-characters
 
 具体步骤见 [使用 Live Link 插件](/ue-livelink)。
 
+以下视频以 MetaHuman 角色为例演示了完整流程。
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1FCNL6oEP1&autoplay=0" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 ### 使用 OSC 插件
 
 OSC 插件提供以下两种方式。
