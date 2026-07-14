@@ -43,10 +43,14 @@ title: 开始使用
 
 Dollars SAYA 可以将捕捉到的数据实时流送至电脑端程序或 VTuber 软件。
 
-1. 在 SAYA 主界面，激活相应协议的开关，即可实时数据流送，
-   - **VMC 协议**：用于 VTuber、虚拟主播或 Unity 接收。  
-   - **UE 协议**：用于以道乐师的方式驱动 Unreal Engine 角色。
-   - **Live Link Face 协议**：用于 Unreal Engine 实时驱动面捕。  
+在 SAYA 主界面，激活相应协议的开关，即可实时数据流送，
+
+![](../img/2026-07-14_14-02-55-659.jpg)
+
+- **VMC**：用于 VTuber、虚拟主播或 Unity 接收。  
+- **UE**：用于以道乐师 OSC 插件驱动 Unreal Engine 角色。
+- **LL**：用于以道乐师 Live Link 插件驱动 Unreal Engine 角色。
+- **LLF**：用于 Unreal Engine 实时驱动面捕。  
 
 ## 使用技巧
 

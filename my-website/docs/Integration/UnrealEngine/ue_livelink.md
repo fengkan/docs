@@ -11,7 +11,7 @@ slug: /ue-livelink
 道乐师的以下产品支持 Live Link 插件，
 
 - Dollars MONO（自 v.260623 起）
-
+- Dollars SAYA（自 v.260715 起）
 :::
 
 ## 准备
