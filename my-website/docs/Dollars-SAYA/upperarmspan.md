@@ -1,9 +1,17 @@
 ---
-sidebar_position: 30
-title: 测量上臂间距
+sidebar_position: 100
+title: （已过时）测量上臂间距
 ---
 
 # 测量上臂间距
+
+:::warning 已过时
+
+SAYA 最新版本已移除测量上臂间距功能，改由 [载入 VRM](./loadvrm.md) 代替，直接按您模型的骨骼比例解算动作。
+
+本页内容仅适用于旧版本。
+
+:::
 
 ## 测量的目的
 
