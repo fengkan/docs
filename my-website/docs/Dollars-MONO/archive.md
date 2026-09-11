@@ -5,6 +5,21 @@ title: 历史版本
 
 # Dollars MONO 历史版本
 
+## 2026年08月28日
+- 提高捕捉质量
+- 恢复文件批处理
+- 移除视频模式
+- 若干修正
+
+下载 [v.260828](https://kilimanjaro.sunnyview.tech/Dollars_MONO_260828.zip)
+
+## 2026年06月23日
+- 提高捕捉质量
+- 支持多人动捕
+- 支持相机旋转
+
+下载 [v.260623](https://kilimanjaro.sunnyview.tech/Dollars_MONO_260623_2.zip)
+
 ## 2026年06月15日
 - 若干修正
 
