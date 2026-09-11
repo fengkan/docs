@@ -1,9 +1,15 @@
 ---
-sidebar_position: 10
-title: 开始使用
+sidebar_position: 90
+title: （已过时）开始使用
 ---
 
 # 开始使用
+
+:::warning 已过时
+
+自 NVIS v.260912 起，无需安装 NVIDIA SDK。本页内容仅适用于旧版本。
+
+:::
 
 在使用 Dollars NVIS 前，您需要在 NVIDIA Broadcast 下载中心，下载您的显卡对应的程序包，并且进行安装。安装之后建议重启。
 

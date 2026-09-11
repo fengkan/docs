@@ -89,7 +89,7 @@ const FacialCaptureProducts = [
     Svg: '/img/nvis.png',
     description1: (
       <>
-       由 NVIDIA 强力驱动，
+       全新面捕模型，
       </>
     ),
     description2: (
