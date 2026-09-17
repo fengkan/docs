@@ -55,7 +55,7 @@ const MotionCaptureProducts = [
     Svg: '/img/selfie.png',
     description1: (
       <>
-        使用一台 iOS 设备，
+        使用一台设备，
       </>
     ),
     description2: (
