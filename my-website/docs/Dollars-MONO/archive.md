@@ -68,7 +68,7 @@ title: 历史版本
 ## 2025年09月24日
 - 更多的 Profile 设置
 
-- 下载 [v.250924](https://pan.baidu.com/s/166t986dlWGlOs6HGSMoVww?pwd=7jcp)
+下载 [v.250924](https://pan.baidu.com/s/166t986dlWGlOs6HGSMoVww?pwd=7jcp)
 
 ## 2025年08月05日
 - 智能接地
