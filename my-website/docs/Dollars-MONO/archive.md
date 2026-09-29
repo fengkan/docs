@@ -5,6 +5,12 @@ title: 历史版本
 
 # Dollars MONO 历史版本
 
+## 2026年09月22日
+- 恢复视频模式
+- 若干修正
+
+下载 [v.260922](https://kilimanjaro.sunnyview.tech/Dollars_MONO_260922.zip)
+
 ## 2026年09月12日
 - 支持导出兼容 VAM 的 BVH
 - NVIS 更新为全新面捕模型
