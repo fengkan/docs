@@ -5,17 +5,25 @@ title: 历史版本
 
 # Dollars MONO 历史版本
 
+## 2026年09月29日
+- 手部增强
+- 视频模式加速
+- 校准倒计时
+- 其他若干修正
+
+下载 [v.260929 便携版](https://kilimanjaro.sunnyview.tech/Dollars_MONO_260929.zip) · [v.260929 安装版](https://kilimanjaro.sunnyview.tech/Dollars_MONO_260929_Setup.exe)
+
 ## 2026年09月22日
 - 恢复视频模式
 - 若干修正
 
-下载 [v.260922](https://kilimanjaro.sunnyview.tech/Dollars_MONO_260922.zip)
+下载 [v.260922 便携版](https://kilimanjaro.sunnyview.tech/Dollars_MONO_260922.zip) · [v.260922 安装版](https://kilimanjaro.sunnyview.tech/Dollars_MONO_260922_Setup.exe)
 
 ## 2026年09月12日
 - 支持导出兼容 VAM 的 BVH
 - NVIS 更新为全新面捕模型
 
-下载 [v.260912](https://kilimanjaro.sunnyview.tech/Dollars_MONO_260912.zip)
+下载 [v.260912 便携版](https://kilimanjaro.sunnyview.tech/Dollars_MONO_260912.zip) · [v.260912 安装版](https://kilimanjaro.sunnyview.tech/Dollars_MONO_260912_Setup.exe)
 
 ## 2026年08月28日
 - 提高捕捉质量
