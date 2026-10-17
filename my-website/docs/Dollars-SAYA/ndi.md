@@ -36,3 +36,9 @@ SAYA 可以将渲染好的虚拟形象画面通过 NDI 推流到同一局域网�
 若等待后仍未出现，请确认设备与电脑处于同一局域网，并检查电脑防火墙是否拦截了 NDI。
 
 :::
+
+## 与 VMC 的延迟比较
+
+以下视频对比了 NDI 输出与 VMC 推送（由电脑端软件渲染形象）两种方式的画面延迟，供您选择时参考。视频中 NDI 使用的是 OBS 中 NDI Source 的默认配置。
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1bGbG69EPb&autoplay=0" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

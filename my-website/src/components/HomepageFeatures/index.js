@@ -60,7 +60,7 @@ const MotionCaptureProducts = [
     ),
     description2: (
       <>
-        即可进行面部、手指以及上半身捕捉。
+        即可进行面部、手指以及全身动作捕捉。
       </>
     ),
   },
