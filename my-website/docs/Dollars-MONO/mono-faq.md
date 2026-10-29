@@ -87,18 +87,3 @@ ShareX 的 screen-capture-recorder 相机，会导致 MONO 异常关闭。建议
 您首先需要根据您使用的手机，找寻配套软件，将手机画面映射到电脑上。之后通过使用 OBS 的虚拟摄像头，就可将画面进一步传入 Dollars MONO 中。
 
 关于 OBS 的虚拟摄像头的使用方法，可以参考[使用 OBS 虚拟摄像头作为输入](/Dollars-MONO/virtualcam)。
-
-## 是否支持多人，多摄像头{#multiple-support}
-
-Dollars MONO 目前只支持单人，单摄像头。
-
-如果您希望在同一场景中实现多人动捕，可以参看以下教程：
-
-[虚幻多人动捕](/ue-multiplayer)
-
-[Unity 多人动捕](/unity-multiplayer)
-
-Virt-A-Mate 多人动捕
-
-<iframe src="//player.bilibili.com/player.html?bvid=BV1u24y1W7LP&autoplay=0&t=270.0" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
