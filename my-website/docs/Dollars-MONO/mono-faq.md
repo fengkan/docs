@@ -72,8 +72,6 @@ ShareX 的 screen-capture-recorder 相机，会导致 MONO 异常关闭。建议
 
 关于 OBS 的虚拟摄像头的使用方法，可以参考[使用 OBS 虚拟摄像头作为输入](/Dollars-MONO/virtualcam)。
 
-您也可以尝试勾选[智能贴地选项](/Dollars-MONO/ground)。
-
 ## 视频卡顿或其他问题{#stuttering}
 
 您可以尝试降低视频分辨率，或者视频帧率。

@@ -23,6 +23,12 @@ https://github.com/SunnyViewTech/MuscleSettings
 
 ## 设置步骤
 
+:::warning 注意
+
+以下部分步骤可能与最新版 MONO 有所不同。
+
+:::
+
 ### 准备工作
 
 1. 在进行 Profile 设置前，请先完成道乐师插件的配置，确保动作可以正确同步至您的虚拟形象。
