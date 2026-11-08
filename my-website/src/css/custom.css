@@ -50,3 +50,6 @@ footer
 }
 .pagination-nav__link--prev .pagination-nav__label:before{content:"< "}
 .pagination-nav__link--next .pagination-nav__label:after{content:" >"}
+
+/* Retired products: pages stay reachable by URL but are hidden from the sidebar */
+.menu__list-item.sidebar-hidden{display:none}

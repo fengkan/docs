@@ -1,6 +1,7 @@
 {
   "label": "Dollars SOMA",
   "position": 50,
+  "className": "sidebar-hidden",
   "link": {
     "type": "generated-index",
   }

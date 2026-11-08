@@ -1,6 +1,7 @@
 {
   "label": "Dollars MOTS",
   "position": 48,
+  "className": "sidebar-hidden",
   "link": {
     "type": "generated-index",
     "description": "关于 Dollars MOTS 的使用"

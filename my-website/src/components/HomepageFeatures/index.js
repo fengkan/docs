@@ -115,38 +115,6 @@ const FacialCaptureProducts = [
   },
 ];
 
-// 创新产品（7）
-const InnovativeProducts = [
-  {
-    title: 'Dollars MOTS',
-    link: '/category/dollars-mots',
-    Svg: '/img/T2M.png',
-    description1: (
-      <>
-       根据文本生成全身动作！
-      </>
-    ),
-    description2: (
-      <>
-      </>
-    ),
-  },
-  {
-    title: 'Dollars SOMA',
-    link: '/category/dollars-soma',
-    Svg: '/img/victory.png',
-    description1: (
-      <>
-       基于摄像头的姿势、手势识别
-      </>
-    ),
-    description2: (
-      <>
-      </>
-    ),
-  },
-];
-
 // 集成（8-9）
 const IntegrationFeatures = [
   {
@@ -215,24 +183,6 @@ function AdditionalFeature({Svg, title, description1, description2, link}) {
   );
 }
 
-// For the innovative products, we'll use a centered layout
-function InnovativeFeature({Svg, title, description1, description2, link}) {
-  return (
-    <div className={clsx('col col--6 offset-col--3')} >
-      <a href={link} style={{ textDecoration: 'none'}}>
-          <div className="text--center">
-            <img src={Svg} alt="alternative text" className={styles.featureSvg} />
-          </div>
-          <div className="text--center padding-horiz--md">
-            <h3 style={{marginTop:'2em'}}>{title}</h3>
-            <p>{description1}<br/>{description2}</p>
-            <p></p>
-          </div>
-      </a>
-    </div>
-  );
-}
-
 export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
@@ -258,18 +208,6 @@ export default function HomepageFeatures() {
         <div className="row">
           {FacialCaptureProducts.map((props, idx) => (
             <Feature key={idx} {...props} />
-          ))}
-        </div>
-        
-        {/* 创新产品 section */}
-        <div className="row" style={{marginTop: '4rem'}}>
-          <div className="col col--12">
-            <h2 className="text--center" style={{marginBottom: '2rem', fontSize: '2rem', fontWeight: 'bold'}}>交互产品</h2>
-          </div>
-        </div>
-        <div className="row">
-          {InnovativeProducts.map((props, idx) => (
-            <InnovativeFeature key={idx} {...props} />
           ))}
         </div>
         
