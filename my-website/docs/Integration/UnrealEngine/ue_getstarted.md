@@ -29,7 +29,7 @@ slug: /ue-getstarted
 
 ### 下载插件
 
-请在道乐师官网下载 Live Link 插件。
+请在[道乐师官网](https://www.sunnyview.tech/download#plugins)下载 Live Link 插件。
 
 ![](../../img/2026_06_30_21_05_59.png)
 
@@ -63,7 +63,7 @@ slug: /ue-getstarted
 
 ### 下载插件
 
-您需要在道乐师官网下载虚幻插件以及所需的 Control Rig。
+您需要在[道乐师官网](https://www.sunnyview.tech/download#plugins)下载虚幻插件以及所需的 Control Rig。
 
 ![](../../img/2026_06_30_21_07_22.png)
 
