@@ -2,6 +2,8 @@
   "label": "SteamVR",
   "position": 42,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "slug": "/steamvr",
+    "description": "无需连接真实头显，道乐师即可在 SteamVR 中模拟头显、双手柄和最多八个追踪器，并由动捕数据驱动。这样便可在 VRChat 等应用中实现全身追踪。"
   }
 }

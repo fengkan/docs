@@ -1,29 +1,25 @@
 ---
 sidebar_position: 10
-title: 概述与安装
-slug: /steamvr
+title: 开始使用
+slug: /steamvr-getstarted
 ---
 
 # SteamVR
 
 :::info 注意
 目前支持 Dollars MONO。
+
+以下驱动安装步骤适用于未安装实体头显的情况。如果电脑已安装实体头显，请参考 SteamVR 文档了解如何安装两套 VR 系统。
 :::
 
-无需连接真实头显，道乐师即可在 SteamVR 中模拟头显、双手柄和最多八个追踪器，并用动捕数据驱动它们，在 VRChat 等应用中实现全身追踪。
-
-使用此功能需要 **DollarsMoCapSteamVRBridge**（以下简称 Bridge）。请先通过 Steam 安装 SteamVR。
-
-:::info 注意
-以下驱动安装步骤适用于未安装实体头显的情况。如果电脑已经安装了实体头显，可能需要参考 SteamVR 文档，了解如何安装两套 VR 系统。
-:::
+使用前，请先通过 Steam 安装 SteamVR，并在[道乐师官网](https://www.sunnyview.tech/download#plugins)下载 **DollarsMoCapSteamVRBridge**（以下简称 Bridge）。
 
 ## 安装驱动
 
-1. 关闭 SteamVR。
-2. 打开 Bridge，点击右上角的「驱动设置」。
-3. 根据需要修改设置，点击「安装」。
-4. 启动 SteamVR。
+1. 将 Bridge 的文件夹放到一个固定的位置。驱动会从 Bridge 所在的目录加载，安装后如果移动了文件夹，需要重新安装驱动。
+2. 关闭 SteamVR。
+3. 打开 Bridge，点击右上角的「驱动设置」。
+4. 根据需要修改设置，点击「安装」。
 
 ![](../../img/steamvr-driver-settings.png)
 
@@ -31,13 +27,25 @@ slug: /steamvr
 | --- | --- |
 | FOV | 虚拟头显的垂直视场角，默认值为 90°。 |
 | 端口 | 接收动捕数据所用的端口，默认为 40439，须与 MONO 中 SteamVR 的端口一致。 |
-| 追踪点 | 头部和双手始终启用。腰部、双脚、胸部、双肘和双膝可分别启用或停用，右侧会显示追踪点总数。默认启用 6 点（腰部和双脚）。 |
+| 追踪点 | 头部和双手始终启用，其他部位可按需勾选。默认启用 6 点追踪（头部、双手、腰部和双脚）。建议先从此配置开始，熟悉使用后再逐步增加追踪点。右侧会显示追踪点总数。 |
 
-:::warning 注意
-- SteamVR 正在运行时，无法安装或卸载驱动，相关按钮会显示为灰色。
-- 修改设置后，需再次点击「安装」并重启 SteamVR，设置才会生效。
-- 驱动文件位于 Bridge 所在目录下的 `dollarsmocap` 文件夹中。移动 Bridge 后，请重新安装驱动。
-:::
+安装完成后启动 SteamVR，即可在 SteamVR 窗口中看到道乐师的虚拟头显和追踪器图标。此时还没有收到动捕数据，图标只显示轮廓。
+
+![](../../img/2026-11-08_21-02-32-961.jpg)
+
+## Dollars MONO 设置
+
+在设置的「传输」页中启用 SteamVR，并确保端口与 Bridge 驱动设置中的端口一致（默认为 40439）。
+
+![](../../img/2026_11_08_21_03_00-MONO_6000_.png)
+
+开始传输后，SteamVR 窗口中的头显、手柄和追踪器图标会变为实心，表示已收到动捕数据。
+
+![](../../img/2026-11-08_21-02-49-560.jpg)
+
+- 如果 MONO 与 SteamVR 不在同一台电脑上，请将 MONO 的目标 IP 设置为运行 SteamVR 的电脑的 IP 地址。Bridge 必须与 SteamVR 在同一台电脑上运行。
+- Bridge 收到动捕数据后，窗口底部会显示「正在接收」。
+- 发送给 SteamVR 的始终是实际的左右手数据，不受 MONO 镜像开关影响。
 
 ## 卸载
 

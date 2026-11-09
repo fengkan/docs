@@ -1,7 +1,7 @@
 ---
 sidebar_position: 20
 title: OSC 方式
-slug: /vrchat
+slug: /vrchat-osc
 ---
 
 # VRChat 全身动捕

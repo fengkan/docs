@@ -1,16 +1,16 @@
 ---
 sidebar_position: 10
 title: 基本使用
-slug: /vrchat-basics
+slug: /vrchat-steamvr-basics
 ---
 
 # VRChat 基本使用
 
 :::info 注意
-目前支持 Dollars MONO。使用前，请先按照 [SteamVR](/steamvr) 一节安装驱动，并在 MONO 中启用 SteamVR。
+目前支持 Dollars MONO。使用前，请先按照 [SteamVR](/steamvr-getstarted) 一节安装驱动，并在 MONO 中启用 SteamVR。
 :::
 
-本页介绍通过 SteamVR 使用 VRChat 时，如何移动和转身，以及如何选择 Avatar 和 World。启动 VRChat 和进行全身校准的方法，请参阅[启动与校准](/vrchat-steamvr)。
+本页介绍通过 SteamVR 使用 VRChat 时，如何移动和转身，以及如何选择 Avatar 和 World。
 
 ## 移动与转身
 
@@ -24,9 +24,6 @@ slug: /vrchat-basics
 | D | 向右平移 |
 | 逗号（,） | 向左转身 |
 | 句号（.） | 向右转身 |
-
-- 操作时，VRChat 窗口必须处于前台。如果正在使用 Bridge 的鼠标键盘控制，请先按 Esc 退出控制，再点击 VRChat 窗口。
-- VRChat 官方文档将转身键标为 < 和 >。在常见的美式键盘上，这两个符号与逗号、句号共用按键。
 
 ## 选择 Avatar
 
@@ -48,4 +45,4 @@ VRChat 主菜单的 Avatars 页
 VRChat 主菜单的 Worlds 页
 :::
 
-操作完成后，按 Esc 退出鼠标键盘控制，头部和双手即恢复为动捕控制。快捷菜单的详细操作方法，请参阅[手柄与鼠标键盘控制](/steamvr-controls)。
+操作完成后，按 Esc 退出鼠标键盘控制，头部和双手即恢复为动捕控制。

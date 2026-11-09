@@ -98,21 +98,6 @@ const FacialCaptureProducts = [
       </>
     ),
   },
-  {
-    title: 'Dollars LINK',
-    link: '/category/dollars-link',
-    Svg: '/img/link.png',
-    description1: (
-      <>
-       使用 Live Link Face
-      </>
-    ),
-    description2: (
-      <>
-      在 iClone8 中进行面部捕捉
-      </>
-    ),
-  },
 ];
 
 // 集成（8-9）
@@ -207,7 +192,7 @@ export default function HomepageFeatures() {
         </div>
         <div className="row">
           {FacialCaptureProducts.map((props, idx) => (
-            <Feature key={idx} {...props} />
+            <AdditionalFeature key={idx} {...props} />
           ))}
         </div>
         

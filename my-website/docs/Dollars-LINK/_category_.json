@@ -1,6 +1,7 @@
 {
   "label": "Dollars LINK",
   "position": 46,
+  "className": "sidebar-hidden",
   "link": {
     "type": "generated-index",
   }
