@@ -47,10 +47,6 @@ MONO 当前支持导出为以下格式，
 
 ```/Users/[用户名]/Library/Application Support/com.SunnyView.Dollars-MONO```
 
-- Linux
-
-```~/.config/unity3d/SunnyView/Dollars_MONO/```
-
 ### 修改保存位置
 
 您可以在设置中修改存放的目录。
