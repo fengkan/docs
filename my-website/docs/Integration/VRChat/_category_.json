@@ -4,6 +4,6 @@
   "link": {
     "type": "generated-index",
     "slug": "/vrchat",
-    "description": "道乐师提供两种在 VRChat 中进行全身动捕的方式。无头显方式是通过道乐师的 SteamVR 套件模拟 VR 头显与追踪器，来实现全身动捕。OSC 方式则是通过 OSC 将身体位置发送给 VRChat。"
+    "description": "道乐师提供两种在 VRChat 中进行全身动捕的方式。无头显方式是通过道乐师 SteamVR 插件模拟 VR 头显与追踪器，来实现全身动捕。OSC 方式则是通过 OSC 将身体位置发送给 VRChat。"
   }
 }

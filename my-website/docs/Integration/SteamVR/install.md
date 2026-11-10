@@ -12,7 +12,7 @@ Dollars MONO 和 Dollars SAYA 自 v.261110 起支持。
 以下驱动安装步骤适用于未安装实体头显的情况。如果电脑已安装实体头显，请参考 SteamVR 文档了解如何安装两套 VR 系统。
 :::
 
-使用前，请先通过 Steam 安装 SteamVR，并在[道乐师官网](https://www.sunnyview.tech/download#plugins)下载 **道乐师 SteamVR 套件**（程序名为 DollarsMoCapSteamVRBridge，以下简称 Bridge）。
+使用前，请先通过 Steam 安装 SteamVR，并在[道乐师官网](https://www.sunnyview.tech/download#plugins)下载 **道乐师 SteamVR 插件**（程序名为 DollarsMoCapSteamVRBridge，以下简称 Bridge）。
 
 ## 安装驱动
 
