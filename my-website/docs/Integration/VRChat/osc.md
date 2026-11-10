@@ -16,7 +16,7 @@ slug: /vrchat-osc
 
 ### 道乐师产品端
 
-请启用 VRChat 同步；如有需要，也可以修改 IP 地址和端口。
+请启用 VRChat 同步。如有需要，也可以修改 IP 地址和端口。
 
 ![](../../img/2024_03_07_14_31_08-Dollars_DEEP.png)
 

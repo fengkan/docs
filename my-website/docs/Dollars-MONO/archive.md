@@ -5,6 +5,13 @@ title: 历史版本
 
 # Dollars MONO 历史版本
 
+## 2026年10月12日
+- 支持导出 VAM Timeline
+- 性能提升
+- 若干修正
+
+下载 [v.261012 便携版](https://kilimanjaro.sunnyview.tech/Dollars_MONO_261012.zip) · [v.261012 安装版](https://kilimanjaro.sunnyview.tech/Dollars_MONO_261012_Setup.exe)
+
 ## 2026年09月29日
 - 手部增强
 - 视频模式加速

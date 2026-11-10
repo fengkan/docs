@@ -4,6 +4,6 @@
   "link": {
     "type": "generated-index",
     "slug": "/vrchat",
-    "description": "道乐师提供两种在 VRChat 中进行全身动捕的方式。虚拟头显适用于 Dollars MONO，无需真实头显，由 Bridge 在 SteamVR 中模拟头显和手柄。OSC 方式适用于 Dollars DEEP，需配合真实头显使用，由道乐师将身体的追踪数据发送给 VRChat。"
+    "description": "道乐师提供两种在 VRChat 中进行全身动捕的方式。无头显方式是通过道乐师的 SteamVR 套件模拟 VR 头显与追踪器，来实现全身动捕。OSC 方式则是通过 OSC 将身体位置发送给 VRChat。"
   }
 }

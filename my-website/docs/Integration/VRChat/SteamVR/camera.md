@@ -6,27 +6,52 @@ slug: /vrchat-steamvr-camera
 
 # Stream Camera
 
-使用虚拟头显时，VRChat 窗口默认显示第一人称画面。直播或录制时，可以使用 VRChat 的 Stream Camera，让窗口改为显示相机拍到的画面。
+VRChat 窗口默认显示会随头部移动的第一人称画面。使用 VRChat 的 Stream Camera，可以切换到固定的第三人称视角，方便直播或录制。
 
 ## 打开 Stream Camera
 
-1. 在 Bridge 中点击「鼠标键盘控制」，按 Q 打开快捷菜单。
-2. 打开相机，并将模式切换为 Stream。
+1. 在 SteamVR 中打开 **Display VR View**。切换到 Stream 模式后，VRChat 窗口不再显示第一人称画面，需要通过 VR View 查看和操作。
+2. 在 Bridge 中点击「鼠标键盘控制」，按 Q 打开快捷菜单。
+3. 打开相机，并将模式切换为 **Stream**。
 
-此时 VRChat 窗口会显示相机的画面。
+此时 VRChat 窗口显示的是相机画面，您可以继续在 VR View 中进行操作。
 
-:::note 截图占位
-VRChat 快捷菜单中的相机设置
+<video controls width="100%">
+  <source src="/vrchat-stream-camera-open.mp4"/>
+</video>
+
+## Flying 模式
+
+开启 Flying 模式后，相机可以脱离 Avatar 自由移动，适合拍摄第三人称画面。
+
+1. 在 VR View 中，点击相机设置里的 **Flying**。
+
+   <video controls width="100%">
+     <source src="/vrchat-stream-camera-flying-on.mp4"/>
+   </video>
+
+2. 按 Alt+Tab 切换到 VRChat 窗口，用鼠标和键盘移动相机，调整到合适的位置。
+
+   <video controls width="100%">
+     <source src="/vrchat-stream-camera-flying-move.mp4"/>
+   </video>
+
+3. 按 Alt+Tab 切换到 Bridge，关闭 Flying 模式，然后退出鼠标键盘控制。此时 VRChat 窗口显示的是固定视角，不再随头部转动。
+
+   <video controls width="100%">
+     <source src="/vrchat-stream-camera-flying-off.mp4"/>
+   </video>
+
+:::tip 提示
+请先关闭 Flying 模式，再退出鼠标键盘控制。如果顺序相反，Stream Camera 可能会随 Avatar 的手放下而颠倒。此时重新进入鼠标键盘控制，按 Q 打开相机设置，画面即可恢复。
+
+<video controls width="100%">
+  <source src="/vrchat-stream-camera-flipped.mp4"/>
+</video>
 :::
 
-## Fly 模式
+## 退出 Stream Camera
 
-开启 Fly 模式后，相机可以离开 Avatar，在一定范围内独立移动，适合拍摄第三人称画面。
-
-1. 在相机设置中点击「Fly」。
-2. 按 Esc 退出鼠标键盘控制，然后在 Bridge 主界面的手柄图上点一下扳机，即可在控制 Avatar 和控制相机之间切换。
-3. 控制相机时，在手柄图上按住触控板并拖动，即可移动和转动相机。左手触控板对应 VRChat 中的左摇杆，右手触控板对应右摇杆。
-
-:::note 截图占位
-Fly 模式下的第三人称画面
-:::
+<video controls width="100%">
+  <source src="/vrchat-stream-camera-close.mp4"/>
+</video>
